@@ -1,0 +1,169 @@
+.ea-ct-table-wrapper {
+    padding: 0 !important;
+    background-color: transparent !important;
+    overflow-x: auto;
+  }
+  .ea-ct-table-wrapper table {
+    width: 100%;
+    height: auto;
+    margin: 0 auto !important;
+    border-collapse: collapse !important;
+    border: none;
+  } 
+  .ea-ct-table-wrapper table thead tr th {
+    transition: .3s;
+  } 
+  .ea-ct-table-wrapper th {
+    transition: .3s;
+  } 
+  .ea-ct-table-wrapper table thead {
+    background-color: #6aaf08;
+    color: #fff;
+  }
+  .ea-ct-table-wrapper table thead th {
+    padding: 15px 10px;
+  }
+  .ea-ct-table-wrapper table tr {
+    border: 1px solid #ddd;
+    padding: 5px;
+  }
+  
+  .ea-ct-table-wrapper table th,
+  .ea-ct-table-wrapper table td {
+    padding: 10px;
+    vertical-align: middle;
+    text-align: center;
+  }
+  
+  .ea-ct-table-wrapper table th {
+    text-transform: capitalize;
+    font-size: 14px;
+    letter-spacing: 1px;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .ea-ct-table-wrapper table tbody tr {
+    background-color: #fff;
+  }
+  .ea-ct-heading-content h4{
+    white-space: nowrap;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  
+  .ea-ct-table-wrapper .ct-btn-custom-reverse {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    white-space: nowrap;
+  }
+  .ea-ct-td-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 600;
+  }
+
+  .ea-ct-heading-content img {
+    width: 140px;
+  }
+  .ea-ct-td-content img {
+    width: 30px;
+  }
+  .ea-ct-td-content i, .ea-ct-td-content img ,.ea-ct-heading-image img,
+  .ea-ct-heading-content img {
+    margin-right: 5px;
+  }
+
+
+.ea-ct-table-wrapper .enteraddons-ct-price {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1;
+    display: block;
+    white-space: nowrap;
+}
+.ea-ct-table-wrapper .enteraddons-ct-price sub {
+    vertical-align: baseline;
+    top: 0;
+    line-height: 0;
+    position: relative;
+}
+.ea-ct-table-wrapper .enteraddons-ct-price sub.ea-ct-duration {
+    font-size: 14px;
+    margin-left: 5px;
+    font-weight: 500;
+}
+.ea-ct-table-wrapper .enteraddons-ct-price sub.ea-ct-currency {
+    margin-right: 5px;
+}
+/**** Comparison Table Badge Style ****/
+
+ .enteraddons-ct-price-badge.ct-badge-style-1 {
+  position: absolute;
+  left: -165px;
+  top: 40px;
+  background-color: #f97300;
+  color: #fff;
+  width: 200px;
+  height: 70px;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: rotate(-45deg) translateX(50%);
+  -ms-transform: rotate(-45deg) translateX(50%);
+  transform: rotate(-45deg) translateX(50%);
+  text-transform: uppercase;
+  font-size: 10px;
+}
+ .enteraddons-ct-price-badge.ct-badge-style-2 {
+  position: absolute;
+  border-radius: 0px 0px 0px 10px;
+  --enteraddons-pricing-table-badge-rotate: -90deg;
+  left: 0;
+  -webkit-transform-origin: left top;
+  -ms-transform-origin: left top;
+  transform-origin: left top;
+  --enteraddons-pricing-table-badge-rotate: -90deg;
+  --enteraddons-pricing-table-badge-translate-x: -100%;
+  top: -1px;
+  padding: .8rem 1rem;
+  background-color: #b270ff;
+  color: #fff;
+  line-height: 1;
+  -webkit-transform: rotate(var(--enteraddons-pricing-table-badge-rotate,0deg)) translateX(var(--enteraddons-pricing-table-badge-translate-x,0)) translateY(var(--enteraddons-pricing-table-badge-translate-y,0));
+  -ms-transform: rotate(var(--enteraddons-pricing-table-badge-rotate,0deg)) translateX(var(--enteraddons-pricing-table-badge-translate-x,0)) translateY(var(--enteraddons-pricing-table-badge-translate-y,0));
+  transform: rotate(var(--enteraddons-pricing-table-badge-rotate,0deg)) translateX(var(--enteraddons-pricing-table-badge-translate-x,0)) translateY(var(--enteraddons-pricing-table-badge-translate-y,0));
+}
+
+ .enteraddons-ct-price-badge.ct-badge-style-3 {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  text-transform: uppercase;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  background-color: #001e3d;
+  font-size: 10px;
+  font-weight: 600;
+  color: #fff;
+  padding: 10px 10px;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,72 @@
+/* Markup One */
+.ea-markone .ea-snipimage {
+  font-family: "Raleway", Arial, sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+  width: 400px;
+  background: #ffffff;
+  text-align: center;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+
+.ea-markone .ea-snipimage img {
+  max-width: 85%;
+  margin: 40px auto;
+  display: block;
+  position: relative;
+  border: 3px solid #666666;
+  padding: 15px 15px 85px 15px;
+  -webkit-transform: translate(0, 0);
+  transform: translate(0, 0);
+}
+
+.ea-markone .ea-snipimage .ea-imgCaption {
+  position: absolute;
+  height: 120px;
+  bottom: 0px;
+  left: 0;
+  right: 0;
+  display: block;
+}
+
+.ea-markone .ea-snipimage h3 {
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 1.7em;
+  width: 100%;
+  padding: 5px 12px;
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.ea-markone .ea-snipimage h4 {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  opacity: 0.6;
+  font-size: 1.1em;
+}
+
+.ea-markone .ea-snipimage.ea-red img {
+  border-color: #ab3326;
+}
+
+.ea-markone .ea-snipimage.ea-red h3,
+.ea-markone .ea-snipimage.ea-red h4 {
+  color: #ab3326;
+}
+
+/* Markup Two */
+.ea-marktwo .ea-framed img {
+  box-shadow: -50px -50px 0 -40px tomato, 50px 50px 0 -40px tomato;
+}
+
+/* Markup Three */
+.ea-markthree img {
+  padding: 10px;
+  border: 1px solid rgb(0, 0, 0);
+  outline: 1px solid #000;
+  outline-offset: -10px;
+}

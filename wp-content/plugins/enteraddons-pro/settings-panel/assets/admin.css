@@ -1,0 +1,452 @@
+/* General */
+
+.enteraddons-modules-settings-wrapper {
+    margin: 0;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.625;
+    color: #777777;
+    text-align: left;
+    background-color: #ffffff;
+}
+.settings-wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    margin-top: 15px;
+}
+
+[data-tab] {
+    display: none;
+}
+
+[data-tab].active {
+    display: block;
+}
+
+/* Tab */
+.tab-settings-btn {
+    background-color: #fcfcfc;
+/*    margin-bottom: 60px;*/
+    box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.1);
+    margin-top: 15px;
+}
+.settings-wrapper .tab-settings-btn {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 15%;
+            flex: 0 0 15%;
+    max-width: 15%;
+    margin-top: 0px;
+}
+.settings-wrapper .tab-settings-btn ul li {
+    padding: 20px 25px;
+    display: block;
+    position: relative;
+    cursor: pointer;
+    text-align: left;
+}
+
+@media only screen and (max-width: 991px) {
+    .settings-wrapper .tab-settings-btn ul li {
+        padding: 20px 28px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .tab-settings-btn ul li {
+        margin-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    .tab-settings-btn ul li {
+        padding: 10px;
+    }
+}
+
+.tab-settings-btn ul li i {
+    margin-right: 5px;
+}
+
+.tab-settings-btn ul li:after {
+    position: absolute;
+    width: 95%;
+    height: 0px;
+    content: "";
+    left: 0;
+    bottom: 0px;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    background: #815aff;
+    background: -webkit-gradient(linear,left top,right top,from(#815aff),to(#b45aff));
+    background: -o-linear-gradient(left,#815aff 0,#b45aff 100%);
+    background: linear-gradient(to right,#815aff 0,#b45aff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#815aff', endColorstr='#e58701',GradientType=1);
+}
+
+.tab-settings-btn ul li.active:after,
+.tab-settings-btn ul li:hover:after {
+    bottom: -6px;
+    height: 2px;
+    width: 100%;
+}
+
+.enteraddons-modules-settings-wrapper .dashboard-content-wrap {
+    max-width: 850px;
+}
+
+.enteraddons-modules-settings-wrapper .eap-admin-field {
+    margin-bottom: 30px;
+    overflow: hidden;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    padding-top: 5px;
+}
+
+.enteraddons-modules-settings-wrapper .eap-admin-field h4 {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+            flex: 0 0 50%;
+    max-width: 50%;
+    margin-right: 20px;
+    color: #111111;
+    margin-top: 0;
+}
+
+.enteraddons-modules-settings-wrapper .eap-admin-field textarea {
+    height: 100px;
+    width: 100%;
+}
+
+.enteraddons-modules-settings-wrapper .eap-admin-field .button-primary {
+    line-height: 1;
+}
+
+.enteraddons-modules-settings-wrapper .fb-admin-btn,
+.fb-noti-inner,
+.fb_btn_fill {
+    background-color: #000;
+    color: #fecc35;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 10.5px 20px;
+    font-weight: 600;
+    border: none;
+    -webkit-transition: 0.3s ease-in;
+    transition: 0.3s ease-in;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.enteraddons-modules-settings-wrapper .fb-admin-btn:hover,
+.enteraddons-modules-settings-wrapper .fb-admin-btn.active {
+    color: #fff;
+    background-color: #e58701;
+    box-shadow: none;
+}
+
+.enteraddons-modules-settings-wrapper .fb-admin-btn.removetime {
+    background-color: #dc3232;
+    color: #fff;
+}
+
+.enteraddons-modules-settings-wrapper .removebranch,
+.enteraddons-modules-settings-wrapper .removetime {
+    margin-left: 8px;
+}
+
+.enteraddons-modules-settings-wrapper .field-wrapper {
+    margin-bottom: 15px;
+}
+
+.enteraddons-modules-settings-wrapper .field-wrapper .single-field {
+    margin-bottom: 8px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.enteraddons-modules-settings-wrapper .button-primary {
+    background-color: #000;
+    color: #fecc35;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 6px 20px;
+    font-weight: 600;
+    border: none;
+    -webkit-transition: 0.3s ease-in;
+    transition: 0.3s ease-in;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.enteraddons-modules-settings-wrapper .button-primary:hover,
+.enteraddons-modules-settings-wrapper .button-primary:focus {
+    color: #fff;
+    background-color: #e58701;
+    box-shadow: none;
+}
+
+.enteraddons-modules-settings-wrapper .submit {
+    margin-top: 60px;
+}
+
+.ui-datepicker {
+    background: #fff;
+}
+
+.ui-datepicker-next {
+    float: right;
+}
+
+.ui-datepicker-title {
+    width: 100%;
+    display: block;
+    margin: 12px 0px;
+    background: #dadada;
+    text-align: center;
+    padding: 2px;
+    font-weight: bold;
+}
+
+.ui-datepicker-prev,
+.ui-datepicker-next {
+    cursor: pointer;
+    padding: 2px 4px;
+    border-radius: 6px;
+    font-weight: bold;
+    color: #333;
+}
+
+.ui-datepicker-calendar a {
+    text-decoration: none;
+    padding: 4px;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+}
+
+.ui-datepicker-calendar a:hover {
+    background-color: #ff0000;
+    color: #fff !important;
+}
+
+.ui-datepicker-today {
+    background-color: #ff0000;
+}
+
+.ui-datepicker-today a {
+    color: #fff !important;
+}
+
+.settings-wrapper .content-wrapper {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 80%;
+            flex: 0 0 80%;
+    max-width: 80%;
+    padding: 40px 0px;
+}
+.settings-wrapper p.submit {
+    text-align: center;
+}
+
+/* Data Table */
+.dataTables_length,
+.dataTables_filter {
+    font-weight: normal;
+    text-align: left;
+    white-space: nowrap;
+    margin-bottom: 30px;
+}
+
+table.dataTable {
+    border-collapse: collapse;
+    font-size: 14px;
+    table-layout: auto;
+}
+
+table.dataTable thead th,
+table.dataTable thead td,
+table.dataTable tfoot th,
+table.dataTable tfoot td {
+    color: #111111;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+table.dataTable > tbody > tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+}
+
+table.dataTable tbody th,
+table.dataTable tbody td {
+    padding: 10px 18px;
+    border: 1px solid #ccc;
+}
+
+table.dataTable thead th:last-child,
+table.dataTable tbody td:last-child,
+table.dataTable tfoot th:last-child {
+    text-align: center;
+}
+
+.dataTables_wrapper {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    border: 1px solid #ddd !important;
+    padding: 4px 10px;
+    border-radius: 4px;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled {
+    background-color: rgba(237, 217, 217, 0.16) !important;
+    cursor: not-allowed;
+    opacity: 0.8;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    background: transparent;
+}
+
+.dataTables_wrapper .dataTables_paginate > span .paginate_button {
+    min-width: 34px;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:not(.disabled):hover,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current {
+    background-color: #f79101 !important;
+    color: #fff !important;
+    border-color: #f79101 !important;
+}
+
+.dataTables_wrapper .dataTables_info {
+    padding-top: 40px;
+}
+
+.dataTables_wrapper .dataTables_paginate {
+    padding-top: 30px;
+}
+
+.webp-tab-img-list {
+    margin-bottom: 60px;
+}
+.webp-tab-img-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.webp-tab-img-list li img,
+.webp-tab-img-list li input {
+    margin-right: 10px;
+}
+.webp-tab-img-list img {
+    width: 70px;
+    border: 2px solid #d6d6d6;
+    padding: 3px;
+}
+.dataTables_wrapper .dataTables_length select {
+    width: 70px;
+}
+.webp-tab-img-list .dataTables_wrapper table thead tr{
+    border-top: 1px solid #dadada;
+}
+.loading-wrapper-top {
+    margin-bottom: 20px;
+}
+.work-complete,
+.loading-wrapper {
+    display: none;
+    background-color: #111;
+    padding: 16px;
+    border-radius: 4px;
+    color: #fff;
+}
+.work-complete {
+    display: none;
+    background-color: #111;
+    padding: 16px;
+    border-radius: 4px;
+    color: #fff;
+}
+.loading-wrapper p{
+    margin-top: 0px;
+}
+#loader {
+  position: relative;
+  overflow: hidden;
+  background-color: #232635;
+  width: 100%;
+  height: 10px;
+  border-radius: 10px;
+}
+
+#loader > div {
+  background-color: #fc00ff;
+  width: 100%;
+}
+
+#loader > div::before,
+#loader > div::after {
+  content: "";
+}
+
+#loader > div,
+#loader > div::before,
+#loader > div::after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+#loader > div::before {
+  background-color: #00fffc;
+  animation: comeOn 2s linear 0s infinite;
+}
+
+#loader > div::after {
+  background-color: #fffc00;
+  animation: comeOn 1s linear 0s infinite;
+}
+
+@keyframes comeOn {
+  0% {
+    width: 0px;
+    left: 0px;
+  }
+  50% {
+    left: 0px;
+    width: 100%;
+  }
+  100% {
+    left: 100%;
+    width: 0%;
+  }
+}
+.back-webp-toimg,
+.use-webp {
+    cursor: pointer;
+    padding: 6px 4px;
+    font-size: 13px;
+    width: 90px;
+    background: linear-gradient(to right,#815aff 0,#b45aff 100%);
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    font-weight: 500;
+}
+.back-webp-toimg {
+    margin-top: 5px;
+    background: linear-gradient(to right,#e9166e 0,#b45aff 100%);
+}

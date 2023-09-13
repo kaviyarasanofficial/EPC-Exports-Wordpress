@@ -1,0 +1,33 @@
+.ea-cat-single-item {
+    line-height: 0;
+}
+.ea-cat-single-item .ea-cat-info {
+    background: #f9f9f9;
+    padding: 10px 10px;
+}
+.ea-cat-single-item .ea-cat-info h3 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 0;
+    font-size: 20px;
+}
+.ea-cat-single-item .ea-cat-info h3 a {
+    margin-right: 5px;
+    text-decoration: none;
+    color: #111;
+    transition: 0.3s;
+}
+.ea-cat-single-item .ea-cat-info h3 span {
+    color: #898989;
+}
+.ea-cat-single-item.pcat-floating-style {
+    position: relative;
+}
+.ea-cat-single-item.pcat-floating-style .ea-cat-info {
+    position: absolute;
+    bottom: -21px;
+}
+.ea-cat-single-item img {
+    display: inline-block !important;
+}

@@ -1,0 +1,122 @@
+
+.enteraddons-wid-con .enteraddons-single-team-carousel {
+    background-color: #ffffff;
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+    -webkit-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+    position: relative;
+    text-align: center;
+    margin: 10px;
+}
+.enteraddons-wid-con .enteraddons-single-team-carousel:hover {
+    -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.15);
+}
+.enteraddons-single-team-carousel {
+    display: flex;
+}
+.enteraddons-wid-con .enteraddons-single-team-carousel .enteraddons-team-carousel-image {
+    margin-bottom: 30px;
+    border-radius: 50%;
+}
+.enteraddons-wid-con .enteraddons-single-team-carousel .enteraddons-team-carousel-image img {
+    display: initial;
+}
+.enteraddons-team-carousel-content {
+    padding: 20px 30px 25px;
+}
+.enteraddons-wid-con .enteraddons-single-team-carousel .enteraddons-team-carousel-content .enteradd--experience {
+    color: #ff0000; 
+    font-size: 12px; 
+    text-transform: uppercase;
+    display: inline-block;
+}
+.enteraddons-wid-con .enteraddons-single-team-carousel .enteraddons-team-carousel-content .team-carousel-title {
+    color: #232323; 
+    text-transform: uppercase; 
+    font-size: 16px; 
+    font-weight: 400; 
+    margin: 10px 0 13px;
+}
+.enteraddons-wid-con .enteraddons-single-team-carousel .enteraddons-team-carousel-content .team-carousel-designation {
+    color: #737373; 
+    font-size: 12px;
+}
+.enteraddons-wid-con .enteraddons-single-team-carousel .enteraddons-team-carousel-social-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.enteraddons-wid-con .enteraddons-single-team-carousel .enteraddons-team-carousel-social-icon a {
+    color: #9aaec1;
+    transition: 0.3s;
+}
+.enteraddons-wid-con .enteraddons-single-team-carousel .enteraddons-team-carousel-social-icon a:hover {
+    color: #2dc383;
+}
+
+.enteraddons-team-carousel-social-icon a:not(:last-child) {
+    margin-right: 15px;
+}
+.enteraddons-team-carousel-content .readme-more-link {
+    margin-top: 10px;
+}
+
+/* Dot css */
+
+.enteraddons-team-carousel .owl-dots {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    line-height: 0;
+}
+.enteraddons-team-carousel .owl-dots .owl-dot {
+    height: 2px;
+    width: 20px;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+    background-color: #DD3431;
+    margin: 0 5px;
+}
+.enteraddons-team-carousel .owl-dots .owl-dot.active {
+    width: 40px;
+    background-color: #1A8E45;
+}
+.enteraddons-team-carousel.owl-carousel .owl-nav {
+    position: absolute;
+    width: 100%;
+    bottom: -50px;
+    text-align: center;
+}
+  .enteraddons-team-carousel.owl-carousel .owl-nav .owl-next {
+    margin-left: 5px;
+  }
+  .enteraddons-team-carousel.owl-carousel .owl-nav button {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    border-radius: 50px;
+    transition: 0.3s;
+  }
+  .enteraddons-team-carousel.owl-carousel .owl-nav button.owl-next, 
+  .enteraddons-team-carousel.owl-carousel .owl-nav button.owl-prev {
+    background-color: #fff;
+    border: 1px solid #080808;
+  }
+  .enteraddons-team-carousel .owl-dots .owl-dot:focus{
+    outline: none;
+    border: none;
+  }

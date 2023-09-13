@@ -1,0 +1,4959 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Enter Addons Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-03 09:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: enteraddons-pro"
+
+#: widgets/comparison_table/Comparison_Table.php:403
+msgid " "
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:2333
+msgid " Active Box Shadow"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:186
+msgid " Button Title"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:141
+msgid " Card Title"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:713
+msgid " Content Padding"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:182
+msgid " Email Link"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:490
+msgid " Gallery Image"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:1018
+#: widgets/accordion_tab/Accordion_Tab.php:1026
+msgid " Hover Background"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:113
+msgid " Image Slide Style "
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:185
+msgid " Offer Title"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:568
+msgid " Overlay Background"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:1199
+msgid " Popup Content Style"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:218
+msgid " Single Accordion Wrapper"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:933
+msgid " Sub Title"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:236
+msgid " Twitter Link"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:1510
+msgid " View Cart Button Style"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:156
+msgid " Website Link"
+msgstr ""
+
+#: widgets/photo_frame/Photo_Frame.php:106
+msgid " Wrapper"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:347
+msgid "$1.99/y"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:322
+#: widgets/domain_search/Domain_Search.php:335
+msgid "$3.99/y"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:339
+msgid "$4.99/m"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:343
+msgid "$5.99/d"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:128
+#: widgets/domain_search/Domain_Search.php:140
+msgid "$8.99/yr"
+msgstr ""
+
+#: inc/Hooks_Callback.php:313
+#, php-format
+msgid ""
+"%1$s New version %2$s is now available. You current version is %3$s. Please "
+"Download the new version and re-active."
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:116
+#, php-format
+msgid "%s Get google API Key %s"
+msgstr ""
+
+#: widgets/photo_frame/Photo_Frame.php:420
+msgid "-50px -50px 0 -40px tomato For Frame Style Two"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:139
+msgid ".Com"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:282
+#: widgets/domain_search/Domain_Search.php:315
+#: widgets/domain_search/Domain_Search.php:334
+msgid ".com"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:288
+#: widgets/domain_search/Domain_Search.php:342
+msgid ".net"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:285
+#: widgets/domain_search/Domain_Search.php:338
+msgid ".org"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:120
+msgid ".Store"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:291
+#: widgets/domain_search/Domain_Search.php:346
+msgid ".xyz"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:121
+msgid "/Month"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:83
+msgid "01"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:379
+msgid "1 GB"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:88
+#: widgets/comparison_table/Comparison_Table.php:170
+msgid "1 Year"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:384
+msgid "2 GB"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:89
+#: widgets/comparison_table/Comparison_Table.php:174
+#: widgets/comparison_table/Comparison_Table.php:178
+#: widgets/comparison_table/Comparison_Table.php:182
+msgid "2 Year"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:349
+msgid "20 Website"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:389
+msgid "3 GB"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:90
+msgid "3 Year"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:354
+msgid "30 Website"
+msgstr ""
+
+#: modules/url-shortener/templates/add-shortener.php:75
+#: modules/url-shortener/templates/edit-shortener.php:92
+msgid "301 (Temporary)"
+msgstr ""
+
+#: modules/url-shortener/templates/add-shortener.php:76
+#: modules/url-shortener/templates/edit-shortener.php:93
+msgid "302 (Temporary)"
+msgstr ""
+
+#: modules/url-shortener/templates/add-shortener.php:77
+#: modules/url-shortener/templates/edit-shortener.php:94
+msgid "307 (Temporary)"
+msgstr ""
+
+#: widgets/product_viewer_360/Product_Viewer_360.php:52
+msgid "360 Product Viewer Content"
+msgstr ""
+
+#: widgets/product_viewer_360/Product_Viewer_360.php:90
+msgid "360 Product Viewer Settings"
+msgstr ""
+
+#: inc/Widgets_Flag.php:116
+#: widgets/product_viewer_360/Product_Viewer_360.php:33
+msgid "360d Product Viewer"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/General_Settings_Tab.php:62
+#: settings-panel/inc/tabscontent/Image_Compress_Settings_Tab.php:49
+msgid "3rd party API"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:91
+msgid "4 Year"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:93
+msgid "49"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:394
+msgid "5 GB"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:92
+msgid "5 Year"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:359
+msgid "50 Website"
+msgstr ""
+
+#: widgets/photo_frame/Photo_Frame.php:430
+msgid "50px 50px 0 -40px tomato For Frame Style Two"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:364
+msgid "70 Website"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:662
+#: widgets/product_category_grid/Product_Category_Grid.php:528
+#: widgets/product_single_category/Product_Single_Category.php:435
+msgid "Absolute"
+msgstr ""
+
+#. page title
+#: inc/Extensions_Flag.php:33 modules/accessibilities/Accessibilities.php:26
+#: modules/accessibilities/Accessibilities.php:27
+msgid "Accessibilities"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:1125
+msgid "Accordion Card Button"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:466
+msgid "Accordion Count/Icon "
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:648
+msgid "Accordion Description"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:954
+msgid "Accordion Media Card"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:1049
+msgid "Accordion Media Card Title"
+msgstr ""
+
+#: inc/Widgets_Flag.php:25 widgets/accordion_tab/Accordion_Tab.php:32
+msgid "Accordion Tab"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:49
+msgid "Accordion Tab Content"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:337
+msgid "Accordion Title"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Url_Shortener_Tab.php:34
+#: settings-panel/inc/tabscontent/Url_Shortener_Tab.php:54
+#: settings-panel/inc/tabscontent/Webp_Convert_Tab.php:126
+msgid "Action"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:87
+#: widgets/domain_search/Domain_Search.php:215
+msgid "Action Link"
+msgstr ""
+
+#: inc/Hooks_Callback.php:387
+msgid "Activate"
+msgstr ""
+
+#: enteraddons-pro.php:186
+msgid "Activate EnterAddons"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:53
+#: widgets/advanced_data_table/Advanced_Data_Table.php:1031
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1272
+#: widgets/team_carousel/Team_Carousel.php:2296
+msgid "Active"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Maintenance_Mode_Tab.php:27
+msgid "Active Maintenance Mode"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:546
+msgid "Active Opacity"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:99
+msgid "Active Preloader"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:301
+#: widgets/accordion_tab/Accordion_Tab.php:429
+msgid "Active Style"
+msgstr ""
+
+#: widgets/advanced_data_table/traits/Template_2.php:30
+msgid "Add Google Api Key"
+msgstr ""
+
+#: widgets/advanced_data_table/traits/Template_2.php:32
+msgid "Add Google Sheet ID"
+msgstr ""
+
+#: widgets/advanced_data_table/traits/Template_2.php:34
+msgid "Add Google Sheet Range"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:154
+msgid "Add Hot Spots"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:131
+msgid "Add Images"
+msgstr ""
+
+#: modules/header-footer-scripts/add-snippets.php:19
+#: modules/url-shortener/templates/add-shortener.php:19
+#: modules/url-shortener/templates/edit-shortener.php:33
+#: modules/url-shortener/templates/shortener-page.php:15
+msgid "Add New"
+msgstr ""
+
+#: modules/header-footer-scripts/edit-snippets.php:28
+#: modules/header-footer-scripts/snippets-page.php:16
+msgid "Add New Snippet"
+msgstr ""
+
+#. page title
+#: modules/url-shortener/Url_Shortener.php:36
+#: modules/url-shortener/Url_Shortener.php:37
+msgid "Add Short Url"
+msgstr ""
+
+#. page title
+#: modules/header-footer-scripts/Header_Footer_Snippets.php:39
+#: modules/header-footer-scripts/Header_Footer_Snippets.php:40
+msgid "Add Snippet"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:146
+msgid "Add Table Data"
+msgstr ""
+
+#: modules/header-footer-scripts/add-snippets.php:27
+#: modules/url-shortener/templates/add-shortener.php:28
+#: modules/url-shortener/templates/edit-shortener.php:42
+msgid "Add Title"
+msgstr ""
+
+#: inc/Widgets_Flag.php:32
+#: widgets/advanced_data_table/Advanced_Data_Table.php:32
+#: widgets/advanced_data_table/Advanced_Data_Table.php:50
+msgid "Advanced Data Table"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:835
+#: widgets/image_hover_effect/Image_Hover_Effect.php:133
+#: widgets/mini_cart/Mini_Cart.php:69 widgets/modal_popup/Modal_Popup.php:1276
+#: widgets/modal_popup/Modal_Popup.php:1340
+#: widgets/modal_popup/Modal_Popup.php:1416
+#: widgets/modal_popup/Modal_Popup.php:1559
+#: widgets/modal_popup/Modal_Popup.php:1748
+#: widgets/modal_popup/Modal_Popup.php:1911
+#: widgets/photo_frame/Photo_Frame.php:529
+#: widgets/photo_frame/Photo_Frame.php:637
+#: widgets/product_category_carousel/Product_Category_Carousel.php:873
+#: widgets/product_category_grid/Product_Category_Grid.php:739
+#: widgets/product_single_category/Product_Single_Category.php:646
+#: widgets/team_carousel/Team_Carousel.php:814
+#: widgets/team_carousel/Team_Carousel.php:2140
+msgid "Alignment"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:77
+msgid "Allow Full Screen"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:414
+msgid "Amination transition"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:163
+#: widgets/team_carousel/Team_Carousel.php:436
+msgid "Animate In"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:174
+#: widgets/team_carousel/Team_Carousel.php:447
+msgid "Animate Out"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1179
+#: widgets/product_viewer_360/Product_Viewer_360.php:96
+msgid "Animation"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:290
+msgid "Animation Duration"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:131
+msgid "Animation Effect"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:300
+msgid "Animation Rotation"
+msgstr ""
+
+#: widgets/product_viewer_360/Product_Viewer_360.php:129
+msgid "Animation Speed"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1174
+#: widgets/image_swap/Image_Swap.php:406
+msgid "Animation Style"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:159
+#: widgets/image_swap/Image_Swap.php:88
+msgid "Animation Type"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:429
+msgid "Animatiuon Duration"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:340
+msgid "Architecture Engineer"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:88
+#: widgets/product_category_grid/Product_Category_Grid.php:88
+#: widgets/product_grid/Product_Grid.php:99
+msgid "ASC"
+msgstr ""
+
+#: modules/header-footer-scripts/snippets-page.php:30
+#: modules/header-footer-scripts/snippets-page.php:93
+#: modules/url-shortener/templates/shortener-page.php:31
+#: modules/url-shortener/templates/shortener-page.php:99
+msgid "Author"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:67
+msgid "Auto"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:181
+msgid "Auto Load"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:207
+#: widgets/team_carousel/Team_Carousel.php:480
+msgid "Auto Width"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:119
+#: widgets/accordion_tab/Accordion_Tab.php:199
+msgid "Automation Consulting"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:117
+#: widgets/team_carousel/Team_Carousel.php:390
+msgid "Autoplay"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:218
+#: widgets/team_carousel/Team_Carousel.php:491
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:281
+#: widgets/accordion_tab/Accordion_Tab.php:417
+#: widgets/accordion_tab/Accordion_Tab.php:632
+#: widgets/accordion_tab/Accordion_Tab.php:719
+#: widgets/accordion_tab/Accordion_Tab.php:820
+#: widgets/accordion_tab/Accordion_Tab.php:1009
+#: widgets/accordion_tab/Accordion_Tab.php:1110
+#: widgets/accordion_tab/Accordion_Tab.php:1205
+#: widgets/advanced_data_table/Advanced_Data_Table.php:376
+#: widgets/advanced_data_table/Advanced_Data_Table.php:767
+#: widgets/advanced_data_table/Advanced_Data_Table.php:824
+#: widgets/advanced_data_table/Advanced_Data_Table.php:1020
+#: widgets/advanced_data_table/Advanced_Data_Table.php:1037
+#: widgets/advanced_data_table/Advanced_Data_Table.php:1054
+#: widgets/advanced_data_table/Advanced_Data_Table.php:1081
+#: widgets/comparison_table/Comparison_Table.php:519
+#: widgets/comparison_table/Comparison_Table.php:946
+#: widgets/comparison_table/Comparison_Table.php:1362
+#: widgets/comparison_table/Comparison_Table.php:1378
+#: widgets/comparison_table/Comparison_Table.php:1412
+#: widgets/comparison_table/Comparison_Table.php:1577
+#: widgets/comparison_table/Comparison_Table.php:1605
+#: widgets/comparison_table/Comparison_Table.php:1820
+#: widgets/comparison_table/Comparison_Table.php:1848
+#: widgets/domain_search/Domain_Search.php:418
+#: widgets/domain_search/Domain_Search.php:528
+#: widgets/domain_search/Domain_Search.php:617
+#: widgets/domain_search/Domain_Search.php:644
+#: widgets/domain_search/Domain_Search.php:779
+#: widgets/domain_search/Domain_Search.php:824
+#: widgets/domain_search/Domain_Search.php:1022
+#: widgets/domain_search/Domain_Search.php:1084
+#: widgets/domain_search/Domain_Search.php:1307
+#: widgets/domain_search/Domain_Search.php:1437
+#: widgets/domain_search/Domain_Search.php:1789 widgets/iframe/Iframe.php:228
+#: widgets/iframe/Iframe.php:357 widgets/iframe/Iframe.php:390
+#: widgets/image_hover_effect/Image_Hover_Effect.php:413
+#: widgets/image_hover_effect/Image_Hover_Effect.php:422
+#: widgets/image_hover_effect/Image_Hover_Effect.php:439
+#: widgets/image_hover_effect/Image_Hover_Effect.php:562
+#: widgets/image_hover_effect/Image_Hover_Effect.php:1086
+#: widgets/image_swap/Image_Swap.php:267 widgets/image_swap/Image_Swap.php:391
+#: widgets/marquee_image/Marquee_Image.php:435
+#: widgets/marquee_image/Marquee_Image.php:595
+#: widgets/marquee_image/Marquee_Image.php:821
+#: widgets/marquee_image/Marquee_Image.php:925
+#: widgets/marquee_image/Marquee_Image.php:1030
+#: widgets/marquee_image/Marquee_Image.php:1208
+#: widgets/masonry_gallery/Masonry_Gallery.php:349
+#: widgets/masonry_gallery/Masonry_Gallery.php:871
+#: widgets/mini_cart/Mini_Cart.php:482 widgets/mini_cart/Mini_Cart.php:586
+#: widgets/mini_cart/Mini_Cart.php:685 widgets/mini_cart/Mini_Cart.php:890
+#: widgets/mini_cart/Mini_Cart.php:1098 widgets/mini_cart/Mini_Cart.php:1651
+#: widgets/mini_cart/Mini_Cart.php:1708 widgets/mini_cart/Mini_Cart.php:1868
+#: widgets/mini_cart/Mini_Cart.php:1925 widgets/modal_popup/Modal_Popup.php:486
+#: widgets/modal_popup/Modal_Popup.php:568
+#: widgets/modal_popup/Modal_Popup.php:760
+#: widgets/modal_popup/Modal_Popup.php:1096
+#: widgets/modal_popup/Modal_Popup.php:1188
+#: widgets/modal_popup/Modal_Popup.php:1732
+#: widgets/modal_popup/Modal_Popup.php:1794
+#: widgets/modal_popup/Modal_Popup.php:1903
+#: widgets/modal_popup/Modal_Popup.php:1985
+#: widgets/modal_popup/Modal_Popup.php:2190 widgets/panorama/Panorama.php:360
+#: widgets/panorama/Panorama.php:489 widgets/panorama/Panorama.php:630
+#: widgets/photo_frame/Photo_Frame.php:227
+#: widgets/photo_frame/Photo_Frame.php:441
+#: widgets/photo_frame/Photo_Frame.php:489
+#: widgets/product_category_carousel/Product_Category_Carousel.php:304
+#: widgets/product_category_carousel/Product_Category_Carousel.php:389
+#: widgets/product_category_carousel/Product_Category_Carousel.php:437
+#: widgets/product_category_carousel/Product_Category_Carousel.php:828
+#: widgets/product_category_grid/Product_Category_Grid.php:170
+#: widgets/product_category_grid/Product_Category_Grid.php:255
+#: widgets/product_category_grid/Product_Category_Grid.php:303
+#: widgets/product_category_grid/Product_Category_Grid.php:694
+#: widgets/product_grid/Product_Grid.php:216
+#: widgets/product_grid/Product_Grid.php:304
+#: widgets/product_grid/Product_Grid.php:351
+#: widgets/product_grid/Product_Grid.php:569
+#: widgets/product_grid/Product_Grid.php:710
+#: widgets/product_grid/Product_Grid.php:921
+#: widgets/product_grid/Product_Grid.php:1119
+#: widgets/product_grid/Product_Grid.php:1148
+#: widgets/product_single_category/Product_Single_Category.php:162
+#: widgets/product_single_category/Product_Single_Category.php:210
+#: widgets/product_single_category/Product_Single_Category.php:601
+#: widgets/product_viewer_360/Product_Viewer_360.php:284
+#: widgets/product_viewer_360/Product_Viewer_360.php:392
+#: widgets/team_carousel/Team_Carousel.php:576
+#: widgets/team_carousel/Team_Carousel.php:744
+#: widgets/team_carousel/Team_Carousel.php:791
+#: widgets/team_carousel/Team_Carousel.php:886
+#: widgets/team_carousel/Team_Carousel.php:1017
+#: widgets/team_carousel/Team_Carousel.php:1471
+#: widgets/team_carousel/Team_Carousel.php:1728
+#: widgets/team_carousel/Team_Carousel.php:1811
+msgid "Background"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:466
+#: widgets/comparison_table/Comparison_Table.php:633
+#: widgets/comparison_table/Comparison_Table.php:662
+#: widgets/domain_search/Domain_Search.php:1501
+#: widgets/domain_search/Domain_Search.php:1650
+msgid "Background Color"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:730
+msgid "Badge Background Color"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:764
+msgid "Badge Height"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:138
+#: widgets/comparison_table/Comparison_Table.php:680
+msgid "Badge Style"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:152
+msgid "Badge Text"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:695
+msgid "Badge Text Color"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:738
+msgid "Badge Width"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1104
+msgid "Below Price"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1100
+msgid "Beside Price"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:941
+msgid "Between Space"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:823
+msgid "Block"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:1404
+msgid "block"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:206
+msgid "Blur"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:261
+#: widgets/accordion_tab/Accordion_Tab.php:397
+#: widgets/accordion_tab/Accordion_Tab.php:612
+#: widgets/accordion_tab/Accordion_Tab.php:699
+#: widgets/accordion_tab/Accordion_Tab.php:830
+#: widgets/accordion_tab/Accordion_Tab.php:920
+#: widgets/accordion_tab/Accordion_Tab.php:989
+#: widgets/accordion_tab/Accordion_Tab.php:1185
+#: widgets/accordion_tab/Accordion_Tab.php:1247
+#: widgets/advanced_data_table/Advanced_Data_Table.php:336
+#: widgets/advanced_data_table/Advanced_Data_Table.php:538
+#: widgets/advanced_data_table/Advanced_Data_Table.php:728
+#: widgets/advanced_data_table/Advanced_Data_Table.php:786
+#: widgets/advanced_data_table/Advanced_Data_Table.php:872
+#: widgets/advanced_data_table/Advanced_Data_Table.php:981
+#: widgets/comparison_table/Comparison_Table.php:467
+#: widgets/comparison_table/Comparison_Table.php:564
+#: widgets/comparison_table/Comparison_Table.php:1221
+#: widgets/comparison_table/Comparison_Table.php:1259
+#: widgets/comparison_table/Comparison_Table.php:1557
+#: widgets/comparison_table/Comparison_Table.php:1706
+#: widgets/comparison_table/Comparison_Table.php:1766
+#: widgets/domain_search/Domain_Search.php:391
+#: widgets/domain_search/Domain_Search.php:501
+#: widgets/domain_search/Domain_Search.php:579
+#: widgets/domain_search/Domain_Search.php:752
+#: widgets/domain_search/Domain_Search.php:994
+#: widgets/domain_search/Domain_Search.php:1065
+#: widgets/domain_search/Domain_Search.php:1292
+#: widgets/domain_search/Domain_Search.php:1418
+#: widgets/domain_search/Domain_Search.php:1598
+#: widgets/domain_search/Domain_Search.php:1661
+#: widgets/domain_search/Domain_Search.php:1762 widgets/iframe/Iframe.php:200
+#: widgets/iframe/Iframe.php:329
+#: widgets/image_hover_effect/Image_Hover_Effect.php:386
+#: widgets/image_hover_effect/Image_Hover_Effect.php:534
+#: widgets/image_hover_effect/Image_Hover_Effect.php:749
+#: widgets/image_swap/Image_Swap.php:239 widgets/image_swap/Image_Swap.php:363
+#: widgets/marquee_image/Marquee_Image.php:407
+#: widgets/marquee_image/Marquee_Image.php:566
+#: widgets/marquee_image/Marquee_Image.php:696
+#: widgets/marquee_image/Marquee_Image.php:800
+#: widgets/marquee_image/Marquee_Image.php:904
+#: widgets/marquee_image/Marquee_Image.php:1009
+#: widgets/marquee_image/Marquee_Image.php:1180
+#: widgets/masonry_gallery/Masonry_Gallery.php:321
+#: widgets/masonry_gallery/Masonry_Gallery.php:379
+#: widgets/masonry_gallery/Masonry_Gallery.php:457
+#: widgets/masonry_gallery/Masonry_Gallery.php:548
+#: widgets/masonry_gallery/Masonry_Gallery.php:843
+#: widgets/masonry_gallery/Masonry_Gallery.php:911
+#: widgets/mini_cart/Mini_Cart.php:516 widgets/mini_cart/Mini_Cart.php:620
+#: widgets/mini_cart/Mini_Cart.php:862 widgets/mini_cart/Mini_Cart.php:1070
+#: widgets/mini_cart/Mini_Cart.php:1195 widgets/mini_cart/Mini_Cart.php:1623
+#: widgets/mini_cart/Mini_Cart.php:1680 widgets/mini_cart/Mini_Cart.php:1840
+#: widgets/mini_cart/Mini_Cart.php:1897 widgets/modal_popup/Modal_Popup.php:448
+#: widgets/modal_popup/Modal_Popup.php:530
+#: widgets/modal_popup/Modal_Popup.php:678
+#: widgets/modal_popup/Modal_Popup.php:1058
+#: widgets/modal_popup/Modal_Popup.php:1150
+#: widgets/modal_popup/Modal_Popup.php:1532
+#: widgets/modal_popup/Modal_Popup.php:1712
+#: widgets/modal_popup/Modal_Popup.php:1865
+#: widgets/modal_popup/Modal_Popup.php:1947
+#: widgets/modal_popup/Modal_Popup.php:2160 widgets/panorama/Panorama.php:332
+#: widgets/panorama/Panorama.php:461 widgets/panorama/Panorama.php:602
+#: widgets/photo_frame/Photo_Frame.php:197
+#: widgets/photo_frame/Photo_Frame.php:334
+#: widgets/product_category_carousel/Product_Category_Carousel.php:361
+#: widgets/product_category_carousel/Product_Category_Carousel.php:409
+#: widgets/product_category_carousel/Product_Category_Carousel.php:575
+#: widgets/product_category_carousel/Product_Category_Carousel.php:612
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1036
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1251
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1279
+#: widgets/product_category_grid/Product_Category_Grid.php:227
+#: widgets/product_category_grid/Product_Category_Grid.php:275
+#: widgets/product_category_grid/Product_Category_Grid.php:441
+#: widgets/product_category_grid/Product_Category_Grid.php:478
+#: widgets/product_grid/Product_Grid.php:188
+#: widgets/product_grid/Product_Grid.php:276
+#: widgets/product_grid/Product_Grid.php:323
+#: widgets/product_grid/Product_Grid.php:541
+#: widgets/product_grid/Product_Grid.php:587
+#: widgets/product_grid/Product_Grid.php:682
+#: widgets/product_grid/Product_Grid.php:901
+#: widgets/product_grid/Product_Grid.php:1089
+#: widgets/product_single_category/Product_Single_Category.php:134
+#: widgets/product_single_category/Product_Single_Category.php:182
+#: widgets/product_single_category/Product_Single_Category.php:348
+#: widgets/product_single_category/Product_Single_Category.php:385
+#: widgets/product_viewer_360/Product_Viewer_360.php:256
+#: widgets/product_viewer_360/Product_Viewer_360.php:364
+#: widgets/team_carousel/Team_Carousel.php:548
+#: widgets/team_carousel/Team_Carousel.php:716
+#: widgets/team_carousel/Team_Carousel.php:763
+#: widgets/team_carousel/Team_Carousel.php:866
+#: widgets/team_carousel/Team_Carousel.php:989
+#: widgets/team_carousel/Team_Carousel.php:1480
+#: widgets/team_carousel/Team_Carousel.php:1540
+#: widgets/team_carousel/Team_Carousel.php:1708
+#: widgets/team_carousel/Team_Carousel.php:1783
+#: widgets/team_carousel/Team_Carousel.php:2042
+#: widgets/team_carousel/Team_Carousel.php:2266
+#: widgets/team_carousel/Team_Carousel.php:2303
+msgid "Border"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:268
+#: widgets/accordion_tab/Accordion_Tab.php:404
+#: widgets/accordion_tab/Accordion_Tab.php:619
+#: widgets/accordion_tab/Accordion_Tab.php:706
+#: widgets/accordion_tab/Accordion_Tab.php:837
+#: widgets/accordion_tab/Accordion_Tab.php:927
+#: widgets/accordion_tab/Accordion_Tab.php:996
+#: widgets/accordion_tab/Accordion_Tab.php:1192
+#: widgets/accordion_tab/Accordion_Tab.php:1254
+#: widgets/advanced_data_table/Advanced_Data_Table.php:343
+#: widgets/advanced_data_table/Advanced_Data_Table.php:735
+#: widgets/advanced_data_table/Advanced_Data_Table.php:793
+#: widgets/advanced_data_table/Advanced_Data_Table.php:880
+#: widgets/advanced_data_table/Advanced_Data_Table.php:989
+#: widgets/comparison_table/Comparison_Table.php:474
+#: widgets/comparison_table/Comparison_Table.php:717
+#: widgets/comparison_table/Comparison_Table.php:1228
+#: widgets/comparison_table/Comparison_Table.php:1564
+#: widgets/comparison_table/Comparison_Table.php:1713
+#: widgets/comparison_table/Comparison_Table.php:1773
+#: widgets/domain_search/Domain_Search.php:398
+#: widgets/domain_search/Domain_Search.php:508
+#: widgets/domain_search/Domain_Search.php:586
+#: widgets/domain_search/Domain_Search.php:759
+#: widgets/domain_search/Domain_Search.php:1001
+#: widgets/domain_search/Domain_Search.php:1072
+#: widgets/domain_search/Domain_Search.php:1425
+#: widgets/domain_search/Domain_Search.php:1605
+#: widgets/domain_search/Domain_Search.php:1769 widgets/iframe/Iframe.php:207
+#: widgets/iframe/Iframe.php:336
+#: widgets/image_hover_effect/Image_Hover_Effect.php:393
+#: widgets/image_hover_effect/Image_Hover_Effect.php:541
+#: widgets/image_hover_effect/Image_Hover_Effect.php:756
+#: widgets/image_hover_effect/Image_Hover_Effect.php:1065
+#: widgets/image_swap/Image_Swap.php:246 widgets/image_swap/Image_Swap.php:370
+#: widgets/marquee_image/Marquee_Image.php:414
+#: widgets/marquee_image/Marquee_Image.php:573
+#: widgets/marquee_image/Marquee_Image.php:703
+#: widgets/marquee_image/Marquee_Image.php:807
+#: widgets/marquee_image/Marquee_Image.php:911
+#: widgets/marquee_image/Marquee_Image.php:1016
+#: widgets/marquee_image/Marquee_Image.php:1187
+#: widgets/masonry_gallery/Masonry_Gallery.php:328
+#: widgets/masonry_gallery/Masonry_Gallery.php:464
+#: widgets/masonry_gallery/Masonry_Gallery.php:555
+#: widgets/masonry_gallery/Masonry_Gallery.php:850
+#: widgets/masonry_gallery/Masonry_Gallery.php:918
+#: widgets/mini_cart/Mini_Cart.php:266 widgets/mini_cart/Mini_Cart.php:523
+#: widgets/mini_cart/Mini_Cart.php:627 widgets/mini_cart/Mini_Cart.php:869
+#: widgets/mini_cart/Mini_Cart.php:1077 widgets/mini_cart/Mini_Cart.php:1202
+#: widgets/mini_cart/Mini_Cart.php:1357 widgets/mini_cart/Mini_Cart.php:1630
+#: widgets/mini_cart/Mini_Cart.php:1687 widgets/mini_cart/Mini_Cart.php:1847
+#: widgets/mini_cart/Mini_Cart.php:1904 widgets/modal_popup/Modal_Popup.php:455
+#: widgets/modal_popup/Modal_Popup.php:537
+#: widgets/modal_popup/Modal_Popup.php:685
+#: widgets/modal_popup/Modal_Popup.php:1065
+#: widgets/modal_popup/Modal_Popup.php:1157
+#: widgets/modal_popup/Modal_Popup.php:1539
+#: widgets/modal_popup/Modal_Popup.php:1719
+#: widgets/modal_popup/Modal_Popup.php:1872
+#: widgets/modal_popup/Modal_Popup.php:1954
+#: widgets/modal_popup/Modal_Popup.php:2167 widgets/panorama/Panorama.php:339
+#: widgets/panorama/Panorama.php:468 widgets/panorama/Panorama.php:609
+#: widgets/photo_frame/Photo_Frame.php:204
+#: widgets/photo_frame/Photo_Frame.php:342
+#: widgets/product_category_carousel/Product_Category_Carousel.php:283
+#: widgets/product_category_carousel/Product_Category_Carousel.php:368
+#: widgets/product_category_carousel/Product_Category_Carousel.php:416
+#: widgets/product_category_carousel/Product_Category_Carousel.php:582
+#: widgets/product_category_carousel/Product_Category_Carousel.php:619
+#: widgets/product_category_carousel/Product_Category_Carousel.php:799
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1043
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1215
+#: widgets/product_category_grid/Product_Category_Grid.php:149
+#: widgets/product_category_grid/Product_Category_Grid.php:234
+#: widgets/product_category_grid/Product_Category_Grid.php:282
+#: widgets/product_category_grid/Product_Category_Grid.php:448
+#: widgets/product_category_grid/Product_Category_Grid.php:485
+#: widgets/product_category_grid/Product_Category_Grid.php:665
+#: widgets/product_grid/Product_Grid.php:195
+#: widgets/product_grid/Product_Grid.php:283
+#: widgets/product_grid/Product_Grid.php:330
+#: widgets/product_grid/Product_Grid.php:548
+#: widgets/product_grid/Product_Grid.php:594
+#: widgets/product_grid/Product_Grid.php:689
+#: widgets/product_grid/Product_Grid.php:908
+#: widgets/product_grid/Product_Grid.php:1096
+#: widgets/product_single_category/Product_Single_Category.php:141
+#: widgets/product_single_category/Product_Single_Category.php:189
+#: widgets/product_single_category/Product_Single_Category.php:355
+#: widgets/product_single_category/Product_Single_Category.php:392
+#: widgets/product_single_category/Product_Single_Category.php:572
+#: widgets/product_viewer_360/Product_Viewer_360.php:263
+#: widgets/product_viewer_360/Product_Viewer_360.php:371
+#: widgets/team_carousel/Team_Carousel.php:555
+#: widgets/team_carousel/Team_Carousel.php:723
+#: widgets/team_carousel/Team_Carousel.php:770
+#: widgets/team_carousel/Team_Carousel.php:873
+#: widgets/team_carousel/Team_Carousel.php:996
+#: widgets/team_carousel/Team_Carousel.php:1034
+#: widgets/team_carousel/Team_Carousel.php:1487
+#: widgets/team_carousel/Team_Carousel.php:1547
+#: widgets/team_carousel/Team_Carousel.php:1715
+#: widgets/team_carousel/Team_Carousel.php:1790
+#: widgets/team_carousel/Team_Carousel.php:2049
+#: widgets/team_carousel/Team_Carousel.php:2242
+#: widgets/team_carousel/Team_Carousel.php:2320
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1018
+#: widgets/comparison_table/Comparison_Table.php:1082
+#: widgets/comparison_table/Comparison_Table.php:1289
+#: widgets/image_hover_effect/Image_Hover_Effect.php:121
+#: widgets/image_hover_effect/Image_Hover_Effect.php:294
+#: widgets/marquee_image/Marquee_Image.php:1057
+msgid "Bottom"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:610
+msgid "Bottom Layout"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:120
+msgid "Bottom To Top"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:291
+#: widgets/accordion_tab/Accordion_Tab.php:319
+#: widgets/accordion_tab/Accordion_Tab.php:850
+#: widgets/accordion_tab/Accordion_Tab.php:940
+#: widgets/accordion_tab/Accordion_Tab.php:1036
+#: widgets/advanced_data_table/Advanced_Data_Table.php:368
+#: widgets/advanced_data_table/Advanced_Data_Table.php:748
+#: widgets/advanced_data_table/Advanced_Data_Table.php:806
+#: widgets/comparison_table/Comparison_Table.php:511
+#: widgets/comparison_table/Comparison_Table.php:791
+#: widgets/comparison_table/Comparison_Table.php:938
+#: widgets/domain_search/Domain_Search.php:410
+#: widgets/domain_search/Domain_Search.php:520
+#: widgets/domain_search/Domain_Search.php:771
+#: widgets/domain_search/Domain_Search.php:816
+#: widgets/domain_search/Domain_Search.php:1013
+#: widgets/domain_search/Domain_Search.php:1093
+#: widgets/domain_search/Domain_Search.php:1300
+#: widgets/domain_search/Domain_Search.php:1781 widgets/iframe/Iframe.php:220
+#: widgets/iframe/Iframe.php:349
+#: widgets/image_hover_effect/Image_Hover_Effect.php:406
+#: widgets/image_hover_effect/Image_Hover_Effect.php:554
+#: widgets/image_hover_effect/Image_Hover_Effect.php:769
+#: widgets/image_hover_effect/Image_Hover_Effect.php:1078
+#: widgets/image_swap/Image_Swap.php:259 widgets/image_swap/Image_Swap.php:383
+#: widgets/marquee_image/Marquee_Image.php:427
+#: widgets/marquee_image/Marquee_Image.php:587
+#: widgets/marquee_image/Marquee_Image.php:716
+#: widgets/marquee_image/Marquee_Image.php:1200
+#: widgets/masonry_gallery/Masonry_Gallery.php:341
+#: widgets/masonry_gallery/Masonry_Gallery.php:399
+#: widgets/masonry_gallery/Masonry_Gallery.php:477
+#: widgets/masonry_gallery/Masonry_Gallery.php:577
+#: widgets/masonry_gallery/Masonry_Gallery.php:863
+#: widgets/masonry_gallery/Masonry_Gallery.php:931
+#: widgets/mini_cart/Mini_Cart.php:536 widgets/mini_cart/Mini_Cart.php:640
+#: widgets/mini_cart/Mini_Cart.php:882 widgets/mini_cart/Mini_Cart.php:1090
+#: widgets/mini_cart/Mini_Cart.php:1215 widgets/mini_cart/Mini_Cart.php:1643
+#: widgets/mini_cart/Mini_Cart.php:1700 widgets/mini_cart/Mini_Cart.php:1860
+#: widgets/mini_cart/Mini_Cart.php:1917 widgets/modal_popup/Modal_Popup.php:468
+#: widgets/modal_popup/Modal_Popup.php:550
+#: widgets/modal_popup/Modal_Popup.php:698
+#: widgets/modal_popup/Modal_Popup.php:752
+#: widgets/modal_popup/Modal_Popup.php:1078
+#: widgets/modal_popup/Modal_Popup.php:1170
+#: widgets/modal_popup/Modal_Popup.php:1552
+#: widgets/modal_popup/Modal_Popup.php:1741
+#: widgets/modal_popup/Modal_Popup.php:1803
+#: widgets/modal_popup/Modal_Popup.php:1885
+#: widgets/modal_popup/Modal_Popup.php:1967
+#: widgets/modal_popup/Modal_Popup.php:2152 widgets/panorama/Panorama.php:352
+#: widgets/panorama/Panorama.php:481 widgets/panorama/Panorama.php:622
+#: widgets/photo_frame/Photo_Frame.php:219
+#: widgets/photo_frame/Photo_Frame.php:419
+#: widgets/product_category_carousel/Product_Category_Carousel.php:296
+#: widgets/product_category_carousel/Product_Category_Carousel.php:381
+#: widgets/product_category_carousel/Product_Category_Carousel.php:429
+#: widgets/product_category_carousel/Product_Category_Carousel.php:595
+#: widgets/product_category_carousel/Product_Category_Carousel.php:632
+#: widgets/product_category_carousel/Product_Category_Carousel.php:820
+#: widgets/product_category_grid/Product_Category_Grid.php:162
+#: widgets/product_category_grid/Product_Category_Grid.php:247
+#: widgets/product_category_grid/Product_Category_Grid.php:295
+#: widgets/product_category_grid/Product_Category_Grid.php:461
+#: widgets/product_category_grid/Product_Category_Grid.php:498
+#: widgets/product_category_grid/Product_Category_Grid.php:686
+#: widgets/product_grid/Product_Grid.php:208
+#: widgets/product_grid/Product_Grid.php:296
+#: widgets/product_grid/Product_Grid.php:343
+#: widgets/product_grid/Product_Grid.php:561
+#: widgets/product_grid/Product_Grid.php:607
+#: widgets/product_grid/Product_Grid.php:702
+#: widgets/product_single_category/Product_Single_Category.php:154
+#: widgets/product_single_category/Product_Single_Category.php:202
+#: widgets/product_single_category/Product_Single_Category.php:368
+#: widgets/product_single_category/Product_Single_Category.php:405
+#: widgets/product_single_category/Product_Single_Category.php:593
+#: widgets/product_viewer_360/Product_Viewer_360.php:276
+#: widgets/product_viewer_360/Product_Viewer_360.php:384
+#: widgets/team_carousel/Team_Carousel.php:568
+#: widgets/team_carousel/Team_Carousel.php:736
+#: widgets/team_carousel/Team_Carousel.php:783
+#: widgets/team_carousel/Team_Carousel.php:1009
+#: widgets/team_carousel/Team_Carousel.php:1047
+#: widgets/team_carousel/Team_Carousel.php:1500
+#: widgets/team_carousel/Team_Carousel.php:1560
+#: widgets/team_carousel/Team_Carousel.php:1700
+#: widgets/team_carousel/Team_Carousel.php:1803
+#: widgets/team_carousel/Team_Carousel.php:2285
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/photo_frame/Photo_Frame.php:429
+msgid "Box Shadow Two"
+msgstr ""
+
+#: modules/url-shortener/templates/link-tracking.php:24
+#: modules/url-shortener/templates/link-tracking.php:45
+msgid "Browser"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:61
+#: widgets/accordion_tab/Accordion_Tab.php:115
+#: widgets/accordion_tab/Accordion_Tab.php:144
+#: widgets/accordion_tab/Accordion_Tab.php:193
+msgid "Business Consulting"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:222
+#: widgets/image_hover_effect/Image_Hover_Effect.php:687
+#: widgets/masonry_gallery/Masonry_Gallery.php:256
+#: widgets/masonry_gallery/Masonry_Gallery.php:730
+#: widgets/modal_popup/Modal_Popup.php:61
+msgid "Button"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:494
+msgid "Button Alignment"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:1236
+msgid "Button Background"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:777
+msgid "Button Background Color"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1553
+#: widgets/mini_cart/Mini_Cart.php:1544 widgets/mini_cart/Mini_Cart.php:1761
+msgid "Button Height"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:105
+msgid "Button Icon"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:364
+msgid "Button Label"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:172
+#: widgets/comparison_table/Comparison_Table.php:271
+#: widgets/modal_popup/Modal_Popup.php:349
+msgid "Button Link"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:723
+msgid "Button Margin"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:735
+msgid "Button Padding"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1729
+#: widgets/domain_search/Domain_Search.php:540
+#: widgets/modal_popup/Modal_Popup.php:1817
+msgid "Button Style"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:78
+#: widgets/image_hover_effect/Image_Hover_Effect.php:82
+msgid "Button Text"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:149
+#: widgets/comparison_table/Comparison_Table.php:258
+#: widgets/modal_popup/Modal_Popup.php:88
+msgid "Button Title"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:230
+msgid "Button Type"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1531
+#: widgets/mini_cart/Mini_Cart.php:1518 widgets/mini_cart/Mini_Cart.php:1735
+msgid "Button Width"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:260
+msgid "Buy How"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:408
+#: widgets/comparison_table/Comparison_Table.php:413
+#: widgets/comparison_table/Comparison_Table.php:418
+#: widgets/comparison_table/Comparison_Table.php:423
+msgid "Buy Now"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1131
+msgid "Carousel Dot Setings"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:952
+msgid "Carousel Nav Setings"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:50
+msgid "Cart Button Content"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:125
+msgid "Cart Button Text/Icon"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:843
+#: widgets/product_category_grid/Product_Category_Grid.php:709
+#: widgets/product_single_category/Product_Single_Category.php:616
+msgid "Category Label Text"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:649
+#: widgets/product_category_grid/Product_Category_Grid.php:515
+#: widgets/product_single_category/Product_Single_Category.php:422
+msgid "Category Label Wrapper"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:60
+msgid "Category Tab"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:496
+msgid "Cell Background Color"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:429
+#: widgets/advanced_data_table/Advanced_Data_Table.php:554
+#: widgets/comparison_table/Comparison_Table.php:597
+#: widgets/comparison_table/Comparison_Table.php:843
+#: widgets/comparison_table/Comparison_Table.php:1014
+#: widgets/comparison_table/Comparison_Table.php:1078
+#: widgets/comparison_table/Comparison_Table.php:1316
+#: widgets/image_hover_effect/Image_Hover_Effect.php:138
+#: widgets/image_hover_effect/Image_Hover_Effect.php:264
+#: widgets/image_hover_effect/Image_Hover_Effect.php:290
+#: widgets/masonry_gallery/Masonry_Gallery.php:649
+#: widgets/mini_cart/Mini_Cart.php:77 widgets/modal_popup/Modal_Popup.php:502
+#: widgets/modal_popup/Modal_Popup.php:733
+#: widgets/modal_popup/Modal_Popup.php:1284
+#: widgets/modal_popup/Modal_Popup.php:1348
+#: widgets/modal_popup/Modal_Popup.php:1424
+#: widgets/modal_popup/Modal_Popup.php:1567
+#: widgets/modal_popup/Modal_Popup.php:1756
+#: widgets/modal_popup/Modal_Popup.php:1919 widgets/panorama/Panorama.php:237
+#: widgets/photo_frame/Photo_Frame.php:537
+#: widgets/photo_frame/Photo_Frame.php:645
+#: widgets/product_category_carousel/Product_Category_Carousel.php:152
+#: widgets/product_category_carousel/Product_Category_Carousel.php:522
+#: widgets/product_category_carousel/Product_Category_Carousel.php:881
+#: widgets/product_category_grid/Product_Category_Grid.php:388
+#: widgets/product_category_grid/Product_Category_Grid.php:747
+#: widgets/product_grid/Product_Grid.php:487
+#: widgets/product_grid/Product_Grid.php:639
+#: widgets/product_grid/Product_Grid.php:854
+#: widgets/product_single_category/Product_Single_Category.php:295
+#: widgets/product_single_category/Product_Single_Category.php:654
+#: widgets/product_viewer_360/Product_Viewer_360.php:213
+#: widgets/team_carousel/Team_Carousel.php:425
+#: widgets/team_carousel/Team_Carousel.php:636
+#: widgets/team_carousel/Team_Carousel.php:822
+#: widgets/team_carousel/Team_Carousel.php:1744
+#: widgets/team_carousel/Team_Carousel.php:1987
+#: widgets/team_carousel/Team_Carousel.php:2148
+msgid "Center"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Image_Compress_Tab.php:51
+#: settings-panel/inc/tabscontent/Webp_Convert_Tab.php:120
+msgid "Checkbox"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:1727
+msgid "CheckOut Button Style"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:161
+msgid "Choose Image"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:78
+msgid "Circle"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1178
+msgid "Classic"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:105
+msgid "Click"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Url_Shortener_Tab.php:31
+#: settings-panel/inc/tabscontent/Url_Shortener_Tab.php:51
+msgid "Clicks"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:119
+msgid "Close Button Icon"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:382
+msgid "Close Icon"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:1997
+msgid "Close Icon Style"
+msgstr ""
+
+#: widgets/source_code/Source_Code.php:67
+msgid "Code"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:569
+#: widgets/accordion_tab/Accordion_Tab.php:656
+#: widgets/accordion_tab/Accordion_Tab.php:1057
+#: widgets/accordion_tab/Accordion_Tab.php:1142
+#: widgets/advanced_data_table/Advanced_Data_Table.php:455
+#: widgets/advanced_data_table/Advanced_Data_Table.php:485
+#: widgets/advanced_data_table/Advanced_Data_Table.php:756
+#: widgets/advanced_data_table/Advanced_Data_Table.php:892
+#: widgets/advanced_data_table/Advanced_Data_Table.php:1010
+#: widgets/advanced_data_table/Advanced_Data_Table.php:1071
+#: widgets/comparison_table/Comparison_Table.php:622
+#: widgets/comparison_table/Comparison_Table.php:651
+#: widgets/comparison_table/Comparison_Table.php:1344
+#: widgets/comparison_table/Comparison_Table.php:1810
+#: widgets/comparison_table/Comparison_Table.php:1838
+#: widgets/domain_search/Domain_Search.php:468
+#: widgets/domain_search/Domain_Search.php:606
+#: widgets/domain_search/Domain_Search.php:633
+#: widgets/domain_search/Domain_Search.php:854
+#: widgets/domain_search/Domain_Search.php:917
+#: widgets/domain_search/Domain_Search.php:1241
+#: widgets/domain_search/Domain_Search.php:1338
+#: widgets/domain_search/Domain_Search.php:1465
+#: widgets/marquee_image/Marquee_Image.php:738
+#: widgets/marquee_image/Marquee_Image.php:842
+#: widgets/marquee_image/Marquee_Image.php:947
+#: widgets/masonry_gallery/Masonry_Gallery.php:599
+#: widgets/masonry_gallery/Masonry_Gallery.php:682
+#: widgets/mini_cart/Mini_Cart.php:663 widgets/mini_cart/Mini_Cart.php:1383
+#: widgets/mini_cart/Mini_Cart.php:1450 widgets/modal_popup/Modal_Popup.php:475
+#: widgets/modal_popup/Modal_Popup.php:776
+#: widgets/modal_popup/Modal_Popup.php:821
+#: widgets/modal_popup/Modal_Popup.php:941
+#: widgets/modal_popup/Modal_Popup.php:1177
+#: widgets/modal_popup/Modal_Popup.php:1246
+#: widgets/modal_popup/Modal_Popup.php:1310
+#: widgets/modal_popup/Modal_Popup.php:1374
+#: widgets/modal_popup/Modal_Popup.php:1892
+#: widgets/photo_frame/Photo_Frame.php:595
+#: widgets/product_grid/Product_Grid.php:1108
+#: widgets/product_grid/Product_Grid.php:1137
+#: widgets/team_carousel/Team_Carousel.php:1213
+#: widgets/team_carousel/Team_Carousel.php:1295
+#: widgets/team_carousel/Team_Carousel.php:1377
+msgid "Color"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:175
+#: widgets/comparison_table/Comparison_Table.php:209
+#: widgets/product_category_grid/Product_Category_Grid.php:96
+#: widgets/product_grid/Product_Grid.php:70
+msgid "Column"
+msgstr ""
+
+#: widgets/product_category_grid/Product_Category_Grid.php:101
+#: widgets/product_grid/Product_Grid.php:75
+msgid "Column 1"
+msgstr ""
+
+#: widgets/product_category_grid/Product_Category_Grid.php:102
+#: widgets/product_grid/Product_Grid.php:76
+msgid "Column 2"
+msgstr ""
+
+#: widgets/product_category_grid/Product_Category_Grid.php:103
+#: widgets/product_grid/Product_Grid.php:77
+msgid "Column 3"
+msgstr ""
+
+#: widgets/product_category_grid/Product_Category_Grid.php:104
+#: widgets/product_grid/Product_Grid.php:78
+msgid "Column 4"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:859
+#: widgets/product_category_grid/Product_Category_Grid.php:725
+#: widgets/product_single_category/Product_Single_Category.php:632
+msgid "Column Layout"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1244
+msgid "Comparison Content Style"
+msgstr ""
+
+#: inc/Widgets_Flag.php:151 widgets/comparison_table/Comparison_Table.php:32
+msgid "Comparison Table"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:196
+msgid "Comparison Table Content"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:51
+msgid "Comparison Table Heading"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Image_Compress_Tab.php:72
+msgid "Compress Image"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Url_Shortener_Tab.php:61
+#: settings-panel/inc/tabscontent/Webp_Convert_Tab.php:101
+msgid "Compressing........."
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:221
+#: widgets/image_hover_effect/Image_Hover_Effect.php:49
+#: widgets/marquee_image/Marquee_Image.php:51
+#: widgets/modal_popup/Modal_Popup.php:187
+#: widgets/photo_frame/Photo_Frame.php:48
+msgid "Content"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:203
+msgid "Content 1"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:207
+msgid "Content 2"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:211
+msgid "Content 3"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:215
+msgid "Content 4"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:219
+msgid "Content 5"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:223
+msgid "Content 6"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:545
+#: widgets/comparison_table/Comparison_Table.php:1307
+#: widgets/masonry_gallery/Masonry_Gallery.php:641
+#: widgets/modal_popup/Modal_Popup.php:725
+#: widgets/product_grid/Product_Grid.php:479
+#: widgets/product_grid/Product_Grid.php:631
+#: widgets/team_carousel/Team_Carousel.php:628
+#: widgets/team_carousel/Team_Carousel.php:1736
+msgid "Content Alignment"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:807
+msgid "Content Area"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:261
+msgid "Content Direction"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:256
+msgid "Content Horizontal Alignment"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1428
+msgid "Content Icon Style"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1622
+msgid "Content Image Style"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:109
+#: widgets/advanced_data_table/Advanced_Data_Table.php:196
+#: widgets/comparison_table/Comparison_Table.php:337
+msgid "Content List"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:1226
+msgid "Content Padding"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:48
+#: widgets/product_category_grid/Product_Category_Grid.php:48
+#: widgets/product_single_category/Product_Single_Category.php:48
+#: widgets/source_code/Source_Code.php:49
+msgid "Content Settings"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:182
+#: widgets/comparison_table/Comparison_Table.php:246
+#: widgets/comparison_table/Comparison_Table.php:248
+msgid "Content Title"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:58
+#: widgets/modal_popup/Modal_Popup.php:183
+msgid "Content Type"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:282
+#: widgets/team_carousel/Team_Carousel.php:654
+msgid "Content Vertical Alignment"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:705
+msgid "Content Wrapper"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:252
+#: widgets/product_category_grid/Product_Category_Grid.php:118
+msgid "Content Wrapper Settings"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:156
+msgid "Content Wrapper Style Settings"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Webp_Convert_Tab.php:109
+msgid "Convert to Webp"
+msgstr ""
+
+#: widgets/source_code/Source_Code.php:92
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:305
+msgid "Count Background Color"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:318
+msgid "Count Border"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:294
+msgid "Count Color"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:372
+msgid "Count Font Size"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:498
+#: widgets/mini_cart/Mini_Cart.php:349
+msgid "Count Height"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:395
+msgid "Count Left Position"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:80
+msgid "Count Number"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:286
+msgid "Count Style"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:927
+#: widgets/product_category_grid/Product_Category_Grid.php:793
+#: widgets/product_single_category/Product_Single_Category.php:700
+msgid "Count Text Color"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:417
+msgid "Count Top Position"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:938
+#: widgets/product_category_grid/Product_Category_Grid.php:804
+#: widgets/product_single_category/Product_Single_Category.php:711
+msgid "Count Typography"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:473
+#: widgets/mini_cart/Mini_Cart.php:326
+msgid "Count Width"
+msgstr ""
+
+#: modules/url-shortener/templates/link-tracking.php:21
+#: modules/url-shortener/templates/link-tracking.php:42
+msgid "Country"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Url_Shortener_Tab.php:32
+#: settings-panel/inc/tabscontent/Url_Shortener_Tab.php:52
+msgid "Created On"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:72
+msgid "CSS"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:99
+#: widgets/comparison_table/Comparison_Table.php:980
+msgid "Currency"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:988
+msgid "Currency Color"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1032
+msgid "Currency Margin"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:60
+#: modules/url-shortener/templates/add-shortener.php:43
+#: modules/url-shortener/templates/edit-shortener.php:58
+msgid "Custom"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:109
+msgid "Custom Currency"
+msgstr ""
+
+#: modules/url-shortener/templates/add-shortener.php:50
+#: modules/url-shortener/templates/edit-shortener.php:65
+msgid "Custom Shortable Url"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:1118
+msgid "Data Counter Color"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:264
+msgid "Data Ordering"
+msgstr ""
+
+#: modules/header-footer-scripts/snippets-page.php:32
+#: modules/header-footer-scripts/snippets-page.php:95
+#: modules/url-shortener/templates/link-tracking.php:25
+#: modules/url-shortener/templates/link-tracking.php:46
+#: modules/url-shortener/templates/shortener-page.php:33
+#: modules/url-shortener/templates/shortener-page.php:101
+msgid "Date"
+msgstr ""
+
+#: inc/Hooks_Callback.php:376
+msgid "Deactivate"
+msgstr ""
+
+#: classes/Deactivation.php:25
+msgid "Deactivation failed, Please try again."
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:291
+msgid "Default Animation Duration 50000"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Tweaks_Tab.php:75
+msgid "Defer CSS"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Tweaks_Tab.php:81
+msgid "Defer JS"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:957
+msgid "Del Price Color"
+msgstr ""
+
+#: modules/header-footer-scripts/snippets-page.php:68
+#: modules/url-shortener/templates/shortener-page.php:71
+msgid "Delete"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Tweaks_Tab.php:39
+msgid "Dequeue Dashicons CSS"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Tweaks_Tab.php:33
+msgid "Dequeue emoji scripts"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Tweaks_Tab.php:51
+msgid "Dequeue Gutenberg CSS"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Tweaks_Tab.php:45
+msgid "Dequeue the post embed script"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:89
+#: widgets/product_category_grid/Product_Category_Grid.php:89
+#: widgets/product_grid/Product_Grid.php:100
+msgid "DESC"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:101
+#: widgets/image_hover_effect/Image_Hover_Effect.php:74
+#: widgets/image_hover_effect/Image_Hover_Effect.php:632
+#: widgets/marquee_image/Marquee_Image.php:192
+#: widgets/masonry_gallery/Masonry_Gallery.php:178
+#: widgets/modal_popup/Modal_Popup.php:335
+#: widgets/modal_popup/Modal_Popup.php:1366
+#: modules/url-shortener/templates/add-shortener.php:83
+#: modules/url-shortener/templates/edit-shortener.php:101
+#: modules/url-shortener/templates/shortener-page.php:27
+#: modules/url-shortener/templates/shortener-page.php:95
+msgid "Description"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:76
+msgid "Description goes to here...."
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:834
+msgid "Description Style"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:84
+#: widgets/team_carousel/Team_Carousel.php:1310
+msgid "Descriptions"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:172
+msgid "DESIGN"
+msgstr ""
+
+#: widgets/photo_frame/Photo_Frame.php:88
+#: widgets/photo_frame/Photo_Frame.php:585
+#: widgets/team_carousel/Team_Carousel.php:66
+#: widgets/team_carousel/Team_Carousel.php:1146
+msgid "Designation"
+msgstr ""
+
+#: modules/url-shortener/templates/link-tracking.php:23
+#: modules/url-shortener/templates/link-tracking.php:44
+msgid "Device Info"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Tweaks_Tab.php:63
+msgid "Disable Oembed Resource"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Tweaks_Tab.php:27
+msgid "Disable self pingbacks"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:1048
+msgid "Disabled"
+msgstr ""
+
+#: inc/Helper.php:165
+msgid "Dismiss this notice."
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:819
+#: widgets/team_carousel/Team_Carousel.php:1399
+msgid "Display"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:113
+msgid "Display On"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:93
+msgid "Do you want to set Image Link?"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:170
+msgid "Do you want to set Text Link?"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:87
+#: widgets/comparison_table/Comparison_Table.php:167
+msgid "Domain"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1034
+msgid "Domain Heading Style"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1683
+msgid "Domain Name"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:158
+msgid "Domain Name ?"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1166
+msgid "Domain Offer Style"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:126
+#: widgets/domain_search/Domain_Search.php:1708
+msgid "Domain Price"
+msgstr ""
+
+#: inc/Widgets_Flag.php:144 widgets/domain_search/Domain_Search.php:32
+msgid "Domain Search"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:49
+msgid "Domain Search Content"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:268
+msgid "Domain Title"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:118
+msgid "Domain Type"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:304
+msgid "Domain Type Content"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:134
+#: widgets/domain_search/Domain_Search.php:277
+#: widgets/domain_search/Domain_Search.php:328
+msgid "Domain Type List"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:837
+msgid "Domain Type Name Style"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:900
+msgid "Domain Type Pricing Style"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:658
+#: widgets/domain_search/Domain_Search.php:1675
+msgid "Domain Type Style"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Url_Shortener_Tab.php:66
+#: settings-panel/inc/tabscontent/Webp_Convert_Tab.php:106
+msgid "Done"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1287
+#: widgets/team_carousel/Team_Carousel.php:2311
+msgid "Dot Active Background"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1259
+#: widgets/team_carousel/Team_Carousel.php:2274
+msgid "Dot Background"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1240
+msgid "Dot Point Color"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:2133
+msgid "Dot Setings"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:196
+#: widgets/team_carousel/Team_Carousel.php:469
+msgid "Dots"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:282
+msgid "Down"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:118
+#: widgets/comparison_table/Comparison_Table.php:1044
+msgid "Duration"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1052
+msgid "Duration Color"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1118
+msgid "Duration Margin"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1096
+msgid "Duration Position"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:69
+msgid "Eager"
+msgstr ""
+
+#: modules/header-footer-scripts/edit-snippets.php:28
+#: modules/header-footer-scripts/snippets-page.php:67
+#: modules/url-shortener/templates/edit-shortener.php:33
+#: modules/url-shortener/templates/shortener-page.php:70
+msgid "Edit"
+msgstr ""
+
+#. page title
+#: modules/url-shortener/Url_Shortener.php:44
+#: modules/url-shortener/Url_Shortener.php:45
+msgid "Edit Short Url"
+msgstr ""
+
+#. page title
+#: modules/header-footer-scripts/Header_Footer_Snippets.php:47
+#: modules/header-footer-scripts/Header_Footer_Snippets.php:48
+msgid "Edit Snippet"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:92
+msgid "Effect"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:153
+#: widgets/image_swap/Image_Swap.php:82
+msgid "Effect Settings"
+msgstr ""
+
+#: inc/Hooks_Callback.php:382
+msgid "Email"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:170
+msgid "Email Icon"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:287
+msgid "Enable Export Button"
+msgstr ""
+
+#: inc/Hooks_Callback.php:123
+msgid "Enable Footer?"
+msgstr ""
+
+#: inc/Hooks_Callback.php:91
+msgid "Enable Header?"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Tweaks_Tab.php:57
+msgid "Enable instant page"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:242
+msgid "Enable Pagination"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:253
+msgid "Enable Search"
+msgstr ""
+
+#. Name of the plugin
+msgid "Enter Addons Pro"
+msgstr ""
+
+#: inc/Hooks_Callback.php:451
+msgid "Enter Addons Pro Change-log (Updates)"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:75
+#: widgets/advanced_data_table/Advanced_Data_Table.php:188
+#: widgets/comparison_table/Comparison_Table.php:59
+msgid "Enteraddons"
+msgstr ""
+
+#: inc/Hooks_Callback.php:39
+msgid "Enteraddons Pro"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:177
+msgid "Enteraddons-Pro"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:106
+msgid "Entire Site"
+msgstr ""
+
+#: inc/Hooks_Callback.php:381
+msgid "Entre Your Purchase Code"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:1093
+msgid "Entries"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:592
+#: widgets/comparison_table/Comparison_Table.php:1370
+msgid "Even Row Background"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:640
+msgid "Even Row Hover Background"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:630
+msgid "Even Row Hover Text Color"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:582
+msgid "Even Row Text Color"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:125
+msgid "Exclude Pages"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:143
+msgid "Exclude Posts"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:341
+msgid "EXP: 10 YEARS"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:148
+msgid "Expand-Horiz"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:149
+msgid "Expand-Vert"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:75
+#: widgets/team_carousel/Team_Carousel.php:1228
+msgid "Experience"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:678
+msgid "Export Button Style"
+msgstr ""
+
+#: widgets/advanced_data_table/traits/Template_1.php:21
+#: widgets/advanced_data_table/traits/Template_2.php:59
+#: widgets/advanced_data_table/traits/Template_3.php:32
+msgid "Export to Excel"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:197
+msgid "Facebook Icon"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:209
+msgid "Facebook Link"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:163
+#: widgets/image_swap/Image_Swap.php:138
+#: widgets/modal_popup/Modal_Popup.php:142
+msgid "Fade"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:114
+msgid "Featured"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:122
+msgid "Filter Button Title"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:141
+#: widgets/masonry_gallery/Masonry_Gallery.php:221
+msgid "Filter Menu List"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:56
+msgid "First Image"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:77
+msgid "Flashing"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:182
+msgid "Flip Diag 1"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:183
+msgid "Flip Diag 2"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:180
+msgid "Flip Horiz"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:181
+msgid "Flip Vert"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:195
+msgid "Fold Down"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:196
+msgid "Fold Left"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:197
+msgid "Fold Right"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:194
+msgid "Fold Up"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:2100
+#: widgets/source_code/Source_Code.php:169
+#: widgets/team_carousel/Team_Carousel.php:1646
+msgid "Font Size"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:91
+msgid "Footer"
+msgstr ""
+
+#: inc/Hooks_Callback.php:134
+msgid "Footer Name"
+msgstr ""
+
+#: inc/Hooks_Callback.php:116
+msgid "Footer Option"
+msgstr ""
+
+#: widgets/product_viewer_360/Product_Viewer_360.php:118
+msgid "Frame Reverse"
+msgstr ""
+
+#: widgets/photo_frame/Photo_Frame.php:56
+msgid "Frame Style 1"
+msgstr ""
+
+#: widgets/photo_frame/Photo_Frame.php:57
+msgid "Frame Style 2"
+msgstr ""
+
+#: widgets/photo_frame/Photo_Frame.php:58
+msgid "Frame Style 3"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:61
+msgid "Gallery"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:82
+msgid "Gallery Column"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:56
+msgid "Gallery Style"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:188
+msgid "GET 10% OFF TODAY TO REGISTER A DOMAIN"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:278
+msgid "Github Icon"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:290
+msgid "Github Link"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:112
+msgid "Google API Key"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:61
+msgid "Google Sheet"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:103
+msgid "Google Sheet ID"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:122
+msgid "Google Sheet Range"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:109
+msgid "Gutter"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:90
+#: widgets/modal_popup/Modal_Popup.php:173
+msgid "Header"
+msgstr ""
+
+#: inc/Extensions_Flag.php:26
+msgid "Header & Footer Snippets"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:571
+msgid "Header Border Radius"
+msgstr ""
+
+#. page title
+#: modules/header-footer-scripts/Header_Footer_Snippets.php:31
+#: modules/header-footer-scripts/Header_Footer_Snippets.php:32
+msgid "Header Footer Snippets"
+msgstr ""
+
+#: inc/Hooks_Callback.php:103
+msgid "Header Name"
+msgstr ""
+
+#: inc/Hooks_Callback.php:83
+msgid "Header Option"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1137
+msgid "Heading Image Style"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:388
+#: widgets/comparison_table/Comparison_Table.php:531
+msgid "Heading Style"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:82
+msgid "Heading Title"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:162
+msgid "Heading Title List"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:887
+#: widgets/domain_search/Domain_Search.php:703
+#: widgets/marquee_image/Marquee_Image.php:360
+#: widgets/mini_cart/Mini_Cart.php:165 widgets/mini_cart/Mini_Cart.php:1256
+#: widgets/modal_popup/Modal_Popup.php:857
+#: widgets/modal_popup/Modal_Popup.php:1628
+#: widgets/product_category_carousel/Product_Category_Carousel.php:985
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1165
+#: widgets/source_code/Source_Code.php:147
+#: widgets/team_carousel/Team_Carousel.php:1613
+#: widgets/team_carousel/Team_Carousel.php:1931
+#: widgets/team_carousel/Team_Carousel.php:2192
+msgid "Height"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:69
+#: widgets/comparison_table/Comparison_Table.php:130
+#: widgets/comparison_table/Comparison_Table.php:239
+#: widgets/domain_search/Domain_Search.php:108
+#: widgets/domain_search/Domain_Search.php:177
+#: widgets/image_hover_effect/Image_Hover_Effect.php:226
+#: widgets/masonry_gallery/Masonry_Gallery.php:73
+#: widgets/modal_popup/Modal_Popup.php:165
+#: widgets/modal_popup/Modal_Popup.php:210
+msgid "Hide"
+msgstr ""
+
+#: widgets/source_code/Source_Code.php:104
+msgid "Highlight Lines"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:177
+msgid "Hinge Down"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:178
+msgid "Hinge Left"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:179
+msgid "Hinge Right"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:176
+msgid "Hinge Up"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:109
+msgid "Home Page"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:266
+#: widgets/modal_popup/Modal_Popup.php:223
+#: widgets/product_grid/Product_Grid.php:63
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/product_viewer_360/Product_Viewer_360.php:205
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:89
+msgid "Hot Spots"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:479
+#: widgets/advanced_data_table/Advanced_Data_Table.php:624
+#: widgets/advanced_data_table/Advanced_Data_Table.php:779
+#: widgets/advanced_data_table/Advanced_Data_Table.php:1065
+#: widgets/comparison_table/Comparison_Table.php:645
+#: widgets/comparison_table/Comparison_Table.php:1388
+#: widgets/comparison_table/Comparison_Table.php:1588
+#: widgets/comparison_table/Comparison_Table.php:1832
+#: widgets/domain_search/Domain_Search.php:789
+#: widgets/domain_search/Domain_Search.php:1618
+#: widgets/image_hover_effect/Image_Hover_Effect.php:788
+#: widgets/image_hover_effect/Image_Hover_Effect.php:921
+#: widgets/image_swap/Image_Swap.php:104
+#: widgets/masonry_gallery/Masonry_Gallery.php:361
+#: widgets/masonry_gallery/Masonry_Gallery.php:883
+#: widgets/mini_cart/Mini_Cart.php:902 widgets/mini_cart/Mini_Cart.php:1663
+#: widgets/mini_cart/Mini_Cart.php:1880 widgets/modal_popup/Modal_Popup.php:523
+#: widgets/modal_popup/Modal_Popup.php:1777
+#: widgets/modal_popup/Modal_Popup.php:1940
+#: widgets/photo_frame/Photo_Frame.php:559
+#: widgets/product_category_carousel/Product_Category_Carousel.php:401
+#: widgets/product_category_carousel/Product_Category_Carousel.php:605
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1093
+#: widgets/product_category_grid/Product_Category_Grid.php:267
+#: widgets/product_category_grid/Product_Category_Grid.php:471
+#: widgets/product_grid/Product_Grid.php:316
+#: widgets/product_grid/Product_Grid.php:580
+#: widgets/product_grid/Product_Grid.php:802
+#: widgets/product_grid/Product_Grid.php:1131
+#: widgets/product_single_category/Product_Single_Category.php:174
+#: widgets/product_single_category/Product_Single_Category.php:378
+#: widgets/team_carousel/Team_Carousel.php:756
+#: widgets/team_carousel/Team_Carousel.php:1028
+#: widgets/team_carousel/Team_Carousel.php:1123
+#: widgets/team_carousel/Team_Carousel.php:1207
+#: widgets/team_carousel/Team_Carousel.php:1289
+#: widgets/team_carousel/Team_Carousel.php:1371
+#: widgets/team_carousel/Team_Carousel.php:1512
+#: widgets/team_carousel/Team_Carousel.php:1766
+#: widgets/team_carousel/Team_Carousel.php:2098
+msgid "Hover"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:430
+#: widgets/masonry_gallery/Masonry_Gallery.php:407
+#: widgets/masonry_gallery/Masonry_Gallery.php:939
+#: widgets/team_carousel/Team_Carousel.php:1531
+msgid "Hover Background"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:797
+#: widgets/image_hover_effect/Image_Hover_Effect.php:806
+msgid "Hover Border"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:804
+#: widgets/image_hover_effect/Image_Hover_Effect.php:813
+msgid "Hover Border Radius"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:826
+msgid "Hover Box Shadow"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:834
+msgid "Hover Button Background Color"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:1067
+#: widgets/accordion_tab/Accordion_Tab.php:1224
+#: widgets/advanced_data_table/Advanced_Data_Table.php:813
+#: widgets/comparison_table/Comparison_Table.php:1394
+#: widgets/domain_search/Domain_Search.php:864
+#: widgets/domain_search/Domain_Search.php:927
+#: widgets/marquee_image/Marquee_Image.php:749
+#: widgets/marquee_image/Marquee_Image.php:853
+#: widgets/marquee_image/Marquee_Image.php:958
+#: widgets/mini_cart/Mini_Cart.php:673 widgets/mini_cart/Mini_Cart.php:908
+#: widgets/mini_cart/Mini_Cart.php:1393 widgets/mini_cart/Mini_Cart.php:1460
+#: widgets/modal_popup/Modal_Popup.php:557
+#: widgets/modal_popup/Modal_Popup.php:1974
+msgid "Hover Color"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:900
+msgid "Hover Icon Color"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:312
+msgid "Hover Pause ?"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:1217
+msgid "Hover Style"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:795
+#: widgets/masonry_gallery/Masonry_Gallery.php:368
+#: widgets/masonry_gallery/Masonry_Gallery.php:890
+msgid "Hover Text Color"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:71
+msgid "Html"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themelooks.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themelooks.org/demo/enteraddons"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:160
+#: widgets/accordion_tab/Accordion_Tab.php:174
+#: widgets/comparison_table/Comparison_Table.php:273
+#: widgets/domain_search/Domain_Search.php:90
+#: widgets/domain_search/Domain_Search.php:217
+#: widgets/image_hover_effect/Image_Hover_Effect.php:92
+#: widgets/marquee_image/Marquee_Image.php:127
+#: widgets/marquee_image/Marquee_Image.php:213
+#: widgets/masonry_gallery/Masonry_Gallery.php:197
+#: widgets/modal_popup/Modal_Popup.php:281
+#: widgets/modal_popup/Modal_Popup.php:352
+#: widgets/team_carousel/Team_Carousel.php:95
+#: widgets/team_carousel/Team_Carousel.php:158
+#: widgets/team_carousel/Team_Carousel.php:184
+#: widgets/team_carousel/Team_Carousel.php:211
+#: widgets/team_carousel/Team_Carousel.php:238
+#: widgets/team_carousel/Team_Carousel.php:265
+#: widgets/team_carousel/Team_Carousel.php:292
+#: widgets/team_carousel/Team_Carousel.php:319
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:89
+#: widgets/comparison_table/Comparison_Table.php:298
+#: widgets/comparison_table/Comparison_Table.php:306
+#: widgets/domain_search/Domain_Search.php:234
+#: widgets/domain_search/Domain_Search.php:253
+#: widgets/image_hover_effect/Image_Hover_Effect.php:852
+#: widgets/marquee_image/Marquee_Image.php:200
+#: widgets/masonry_gallery/Masonry_Gallery.php:209
+#: widgets/mini_cart/Mini_Cart.php:57 widgets/modal_popup/Modal_Popup.php:268
+msgid "Icon"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:222 widgets/mini_cart/Mini_Cart.php:1313
+msgid "Icon Background Color"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:258 widgets/mini_cart/Mini_Cart.php:1349
+msgid "Icon Border"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1444
+#: widgets/comparison_table/Comparison_Table.php:1594
+#: widgets/domain_search/Domain_Search.php:1488
+#: widgets/image_hover_effect/Image_Hover_Effect.php:867
+#: widgets/image_hover_effect/Image_Hover_Effect.php:927
+#: widgets/marquee_image/Marquee_Image.php:1067
+#: widgets/masonry_gallery/Masonry_Gallery.php:832
+#: widgets/mini_cart/Mini_Cart.php:210 widgets/mini_cart/Mini_Cart.php:749
+#: widgets/mini_cart/Mini_Cart.php:936 widgets/mini_cart/Mini_Cart.php:1301
+#: widgets/modal_popup/Modal_Popup.php:1675
+#: widgets/modal_popup/Modal_Popup.php:1783
+#: widgets/modal_popup/Modal_Popup.php:2179
+#: widgets/team_carousel/Team_Carousel.php:1636
+#: widgets/team_carousel/Team_Carousel.php:1772
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1506
+#: widgets/marquee_image/Marquee_Image.php:1129
+#: widgets/mini_cart/Mini_Cart.php:811 widgets/mini_cart/Mini_Cart.php:998
+msgid "Icon Container Height"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1480
+#: widgets/marquee_image/Marquee_Image.php:1103
+#: widgets/mini_cart/Mini_Cart.php:785 widgets/mini_cart/Mini_Cart.php:972
+msgid "Icon Container Width"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1637
+msgid "Icon Hover Color"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:759
+#: widgets/mini_cart/Mini_Cart.php:233 widgets/mini_cart/Mini_Cart.php:1324
+msgid "Icon Margin"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:245 widgets/mini_cart/Mini_Cart.php:1336
+msgid "Icon Padding"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1277
+#: widgets/image_hover_effect/Image_Hover_Effect.php:116
+#: widgets/marquee_image/Marquee_Image.php:1053
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1454
+#: widgets/domain_search/Domain_Search.php:1511
+#: widgets/image_hover_effect/Image_Hover_Effect.php:877
+#: widgets/marquee_image/Marquee_Image.php:1077
+#: widgets/masonry_gallery/Masonry_Gallery.php:785
+#: widgets/mini_cart/Mini_Cart.php:183 widgets/mini_cart/Mini_Cart.php:759
+#: widgets/mini_cart/Mini_Cart.php:946 widgets/mini_cart/Mini_Cart.php:1274
+#: widgets/modal_popup/Modal_Popup.php:1685
+#: widgets/team_carousel/Team_Carousel.php:1957
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:1044
+#: widgets/mini_cart/Mini_Cart.php:139
+msgid "Icon Style"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:289
+msgid "Icon Type"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:2077
+msgid "Icon Wrapper Height"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:2054
+msgid "Icon Wrapper Width"
+msgstr ""
+
+#: inc/Widgets_Flag.php:123 widgets/iframe/Iframe.php:31
+msgid "Iframe"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:277
+msgid "Iframe Height"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:48
+msgid "Iframe Settings"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:243
+msgid "Iframe Style Settings"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:251
+msgid "Iframe Width"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:149
+msgid "Iframe Wrapper Height"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:123
+msgid "Iframe Wrapper Width"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:132
+#: widgets/accordion_tab/Accordion_Tab.php:864
+#: widgets/comparison_table/Comparison_Table.php:77
+#: widgets/comparison_table/Comparison_Table.php:299
+#: widgets/comparison_table/Comparison_Table.php:322
+#: widgets/image_hover_effect/Image_Hover_Effect.php:56
+#: widgets/marquee_image/Marquee_Image.php:63
+#: widgets/marquee_image/Marquee_Image.php:105
+#: widgets/masonry_gallery/Masonry_Gallery.php:422
+#: widgets/modal_popup/Modal_Popup.php:62
+#: widgets/modal_popup/Modal_Popup.php:98
+#: widgets/modal_popup/Modal_Popup.php:233
+#: widgets/modal_popup/Modal_Popup.php:592 widgets/panorama/Panorama.php:56
+#: widgets/photo_frame/Photo_Frame.php:66
+#: widgets/photo_frame/Photo_Frame.php:242
+#: widgets/product_viewer_360/Product_Viewer_360.php:58
+#: widgets/team_carousel/Team_Carousel.php:115
+#: widgets/team_carousel/Team_Carousel.php:896
+msgid "Image"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:229
+#: widgets/product_category_carousel/Product_Category_Carousel.php:514
+#: widgets/product_category_grid/Product_Category_Grid.php:380
+#: widgets/product_single_category/Product_Single_Category.php:287
+msgid "Image Alignment"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:666
+msgid "Image Bottom"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:116
+msgid "Image Caption"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:939
+msgid "Image Caption Style"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:662
+msgid "Image Center"
+msgstr ""
+
+#. page title
+#: settings-panel/Image_Compress_Settings_Panel.php:20
+#: modules/image-compressor/Image_Compress.php:26
+#: modules/image-compressor/Image_Compress.php:27
+msgid "Image Compress"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/General_Settings_Tab.php:58
+#: settings-panel/inc/tabscontent/Image_Compress_Settings_Tab.php:45
+msgid "Image Compress Type"
+msgstr ""
+
+#: inc/Extensions_Flag.php:47
+msgid "Image Compressor"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:673
+msgid "Image Description"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:71
+msgid "Image Effect Type"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:498
+msgid "Image Gap"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1170
+#: widgets/comparison_table/Comparison_Table.php:1655
+#: widgets/image_hover_effect/Image_Hover_Effect.php:487
+#: widgets/image_swap/Image_Swap.php:316
+#: widgets/marquee_image/Marquee_Image.php:485
+#: widgets/marquee_image/Marquee_Image.php:645
+#: widgets/mini_cart/Mini_Cart.php:1144 widgets/modal_popup/Modal_Popup.php:627
+#: widgets/modal_popup/Modal_Popup.php:1481 widgets/panorama/Panorama.php:409
+#: widgets/photo_frame/Photo_Frame.php:277
+#: widgets/product_category_carousel/Product_Category_Carousel.php:488
+#: widgets/product_category_grid/Product_Category_Grid.php:354
+#: widgets/product_single_category/Product_Single_Category.php:261
+#: widgets/product_viewer_360/Product_Viewer_360.php:328
+#: widgets/team_carousel/Team_Carousel.php:938
+msgid "Image Height"
+msgstr ""
+
+#: inc/Widgets_Flag.php:137
+#: widgets/image_hover_effect/Image_Hover_Effect.php:32
+msgid "Image Hover Effect"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:218
+msgid "Image Layout"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:158
+#: settings-panel/inc/tabscontent/Webp_Convert_Tab.php:124
+msgid "Image Link"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:187
+#: widgets/marquee_image/Marquee_Image.php:139
+msgid "Image List"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:453
+#: widgets/image_swap/Image_Swap.php:282
+#: widgets/marquee_image/Marquee_Image.php:610
+#: widgets/mini_cart/Mini_Cart.php:1110 widgets/panorama/Panorama.php:375
+msgid "Image Style"
+msgstr ""
+
+#: inc/Widgets_Flag.php:109 widgets/image_swap/Image_Swap.php:32
+msgid "Image Swap"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:590
+msgid "Image Title"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:658
+msgid "Image Top"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1144
+#: widgets/comparison_table/Comparison_Table.php:1629
+#: widgets/image_hover_effect/Image_Hover_Effect.php:461
+#: widgets/image_swap/Image_Swap.php:290
+#: widgets/marquee_image/Marquee_Image.php:458
+#: widgets/marquee_image/Marquee_Image.php:619
+#: widgets/mini_cart/Mini_Cart.php:1118 widgets/modal_popup/Modal_Popup.php:601
+#: widgets/modal_popup/Modal_Popup.php:1455 widgets/panorama/Panorama.php:383
+#: widgets/photo_frame/Photo_Frame.php:249
+#: widgets/product_category_carousel/Product_Category_Carousel.php:462
+#: widgets/product_category_grid/Product_Category_Grid.php:328
+#: widgets/product_single_category/Product_Single_Category.php:235
+#: widgets/product_viewer_360/Product_Viewer_360.php:305
+#: widgets/team_carousel/Team_Carousel.php:912
+msgid "Image Width"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:735
+msgid "Image Wrapper"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:768
+msgid "Image Wrapper Height"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:743
+msgid "Image Wrapper Width"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:62
+msgid "Import Data"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:54
+msgid "Inactive"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:123
+msgid "Info"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:569
+msgid "Info Area"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:504
+msgid "Info Style"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:824
+#: widgets/team_carousel/Team_Carousel.php:1403
+msgid "Inline Block"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:902
+msgid "Input Background"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:438
+msgid "Input Field Width"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1368
+msgid "Input height"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:251
+msgid "Instagram Icon"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:263
+msgid "Instagram Link"
+msgstr ""
+
+#: enteraddons-pro.php:182
+msgid "Install EnterAddons"
+msgstr ""
+
+#: modules/url-shortener/templates/link-tracking.php:20
+#: modules/url-shortener/templates/link-tracking.php:41
+msgid "IP"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:1039
+msgid "Item Cart Button Settings"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:624
+msgid "Item Content Wrapper Settings"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:512
+msgid "Item Gap"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:454
+#: widgets/product_category_grid/Product_Category_Grid.php:320
+#: widgets/product_single_category/Product_Single_Category.php:227
+msgid "Item Image Settings"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:838
+msgid "Item Price and Rating Settings"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:1230
+msgid "Item Remove Button Style"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:368
+msgid "Item Thumbnail Settings"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:723
+msgid "Item Title Settings"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:450
+msgid "Item Wrapper"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:318
+#: widgets/product_category_grid/Product_Category_Grid.php:184
+#: widgets/product_grid/Product_Grid.php:231
+#: widgets/product_single_category/Product_Single_Category.php:91
+msgid "Item Wrapper Settings"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:108
+#: widgets/team_carousel/Team_Carousel.php:372
+msgid "Items"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/General_Settings_Tab.php:31
+#: settings-panel/inc/tabscontent/Image_Compress_Settings_Tab.php:27
+msgid "Jpg Image Quality"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:73
+msgid "jQuery/Java-scripts"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:339
+msgid "Kenneth Y. Pearson"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:695
+#: widgets/product_category_grid/Product_Category_Grid.php:561
+#: widgets/product_single_category/Product_Single_Category.php:468
+msgid "Label Height"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:748
+#: widgets/product_category_grid/Product_Category_Grid.php:614
+#: widgets/product_single_category/Product_Single_Category.php:521
+msgid "Label Left Right Position"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:721
+#: widgets/product_category_grid/Product_Category_Grid.php:587
+#: widgets/product_single_category/Product_Single_Category.php:494
+msgid "Label Top Bottom Position"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:669
+#: widgets/product_category_grid/Product_Category_Grid.php:535
+#: widgets/product_single_category/Product_Single_Category.php:442
+msgid "Label Width"
+msgstr ""
+
+#: widgets/source_code/Source_Code.php:56
+msgid "Language"
+msgstr ""
+
+#: inc/Hooks_Callback.php:459
+msgid "Latest version"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:851
+#: widgets/product_category_grid/Product_Category_Grid.php:717
+#: widgets/product_grid/Product_Grid.php:57
+#: widgets/product_single_category/Product_Single_Category.php:624
+#: widgets/team_carousel/Team_Carousel.php:598
+msgid "Layout"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:68
+msgid "Lazy"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:425
+#: widgets/advanced_data_table/Advanced_Data_Table.php:550
+#: widgets/comparison_table/Comparison_Table.php:593
+#: widgets/comparison_table/Comparison_Table.php:839
+#: widgets/comparison_table/Comparison_Table.php:1281
+#: widgets/comparison_table/Comparison_Table.php:1312
+#: widgets/image_hover_effect/Image_Hover_Effect.php:122
+#: widgets/image_hover_effect/Image_Hover_Effect.php:137
+#: widgets/image_hover_effect/Image_Hover_Effect.php:260
+#: widgets/marquee_image/Marquee_Image.php:280
+#: widgets/marquee_image/Marquee_Image.php:1059
+#: widgets/masonry_gallery/Masonry_Gallery.php:645
+#: widgets/mini_cart/Mini_Cart.php:73 widgets/modal_popup/Modal_Popup.php:498
+#: widgets/modal_popup/Modal_Popup.php:729
+#: widgets/modal_popup/Modal_Popup.php:1280
+#: widgets/modal_popup/Modal_Popup.php:1344
+#: widgets/modal_popup/Modal_Popup.php:1420
+#: widgets/modal_popup/Modal_Popup.php:1563
+#: widgets/modal_popup/Modal_Popup.php:1752
+#: widgets/modal_popup/Modal_Popup.php:1915
+#: widgets/modal_popup/Modal_Popup.php:2029 widgets/panorama/Panorama.php:233
+#: widgets/photo_frame/Photo_Frame.php:533
+#: widgets/photo_frame/Photo_Frame.php:641
+#: widgets/product_category_carousel/Product_Category_Carousel.php:518
+#: widgets/product_category_carousel/Product_Category_Carousel.php:877
+#: widgets/product_category_grid/Product_Category_Grid.php:384
+#: widgets/product_category_grid/Product_Category_Grid.php:743
+#: widgets/product_grid/Product_Grid.php:483
+#: widgets/product_grid/Product_Grid.php:635
+#: widgets/product_grid/Product_Grid.php:850
+#: widgets/product_single_category/Product_Single_Category.php:291
+#: widgets/product_single_category/Product_Single_Category.php:650
+#: widgets/product_viewer_360/Product_Viewer_360.php:209
+#: widgets/team_carousel/Team_Carousel.php:632
+#: widgets/team_carousel/Team_Carousel.php:818
+#: widgets/team_carousel/Team_Carousel.php:1740
+#: widgets/team_carousel/Team_Carousel.php:1983
+#: widgets/team_carousel/Team_Carousel.php:2144
+msgid "Left"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:602
+msgid "Left Layout"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:123
+msgid "Left To Right"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:1025
+msgid "Left, Right Position"
+msgstr ""
+
+#: classes/Deactivation.php:23
+msgid "License successfully deactivate"
+msgstr ""
+
+#: inc/Hooks_Callback.php:374
+msgid "License Valid"
+msgstr ""
+
+#: widgets/product_category_grid/Product_Category_Grid.php:74
+msgid "Limit"
+msgstr ""
+
+#: widgets/source_code/Source_Code.php:82
+msgid "Line Numbers"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:90
+#: widgets/marquee_image/Marquee_Image.php:125
+#: widgets/marquee_image/Marquee_Image.php:211
+#: widgets/masonry_gallery/Masonry_Gallery.php:195
+#: widgets/modal_popup/Modal_Popup.php:279
+#: widgets/team_carousel/Team_Carousel.php:93
+#: widgets/team_carousel/Team_Carousel.php:1392
+#: settings-panel/inc/tabscontent/Image_Compress_Tab.php:36
+#: settings-panel/inc/tabscontent/Image_Compress_Tab.php:54
+#: settings-panel/inc/tabscontent/Url_Shortener_Tab.php:33
+#: settings-panel/inc/tabscontent/Url_Shortener_Tab.php:53
+msgid "Link"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:1460
+msgid "Link Color"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:1519
+msgid "Link Hover Color"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:107
+msgid "Link Label"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:305
+msgid "LinkedIn Icon"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:317
+msgid "LinkedIn Link"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:270
+msgid "List Title"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:63
+msgid "Loading"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:95
+#: modules/header-footer-scripts/snippets-page.php:28
+#: modules/header-footer-scripts/snippets-page.php:91
+msgid "Location"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:167
+msgid "Looking a Premium Quality"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:141
+#: widgets/product_viewer_360/Product_Viewer_360.php:107
+#: widgets/team_carousel/Team_Carousel.php:414
+msgid "Loop"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:103
+#: widgets/accordion_tab/Accordion_Tab.php:116
+#: widgets/accordion_tab/Accordion_Tab.php:120
+msgid ""
+"Lorem ipsum dolor sit amet, consectetempor incididunt ut labore et dolore "
+"magna aliqua."
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:180
+msgid "Lorem ipsum dolor sit amet."
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:339
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. \n"
+"                Lorem Ipsum has been the industry s standard dummy text ever "
+"since the 1500s,\n"
+"                 when an unknown printer took a galley of type and scrambled "
+"it to make a type specimen book.\n"
+"                  It has survived not only five centuries, but also the leap "
+"into electronic typesetting,\n"
+"                   remaining essentially unchanged"
+msgstr ""
+
+#. page title
+#: inc/Extensions_Flag.php:68 modules/maintenance-mode/Maintenance_Mode.php:29
+#: modules/maintenance-mode/Maintenance_Mode.php:30
+msgid "Maintenance Mode"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Maintenance_Mode_Tab.php:35
+msgid ""
+"Make sure you have created a page for Maintenance Mode using the Elementor "
+"page builder."
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:236
+#: widgets/accordion_tab/Accordion_Tab.php:372
+#: widgets/accordion_tab/Accordion_Tab.php:587
+#: widgets/accordion_tab/Accordion_Tab.php:674
+#: widgets/accordion_tab/Accordion_Tab.php:795
+#: widgets/accordion_tab/Accordion_Tab.php:872
+#: widgets/accordion_tab/Accordion_Tab.php:964
+#: widgets/accordion_tab/Accordion_Tab.php:1085
+#: widgets/accordion_tab/Accordion_Tab.php:1160
+#: widgets/advanced_data_table/Advanced_Data_Table.php:703
+#: widgets/comparison_table/Comparison_Table.php:486
+#: widgets/comparison_table/Comparison_Table.php:913
+#: widgets/comparison_table/Comparison_Table.php:1196
+#: widgets/comparison_table/Comparison_Table.php:1532
+#: widgets/comparison_table/Comparison_Table.php:1681
+#: widgets/comparison_table/Comparison_Table.php:1754
+#: widgets/domain_search/Domain_Search.php:368
+#: widgets/domain_search/Domain_Search.php:478
+#: widgets/domain_search/Domain_Search.php:556
+#: widgets/domain_search/Domain_Search.php:729
+#: widgets/domain_search/Domain_Search.php:874
+#: widgets/domain_search/Domain_Search.php:937
+#: widgets/domain_search/Domain_Search.php:971
+#: widgets/domain_search/Domain_Search.php:1042
+#: widgets/domain_search/Domain_Search.php:1151
+#: widgets/domain_search/Domain_Search.php:1251
+#: widgets/domain_search/Domain_Search.php:1575
+#: widgets/domain_search/Domain_Search.php:1739 widgets/iframe/Iframe.php:175
+#: widgets/iframe/Iframe.php:304
+#: widgets/image_hover_effect/Image_Hover_Effect.php:361
+#: widgets/image_hover_effect/Image_Hover_Effect.php:509
+#: widgets/image_hover_effect/Image_Hover_Effect.php:602
+#: widgets/image_hover_effect/Image_Hover_Effect.php:657
+#: widgets/image_hover_effect/Image_Hover_Effect.php:904
+#: widgets/image_swap/Image_Swap.php:214 widgets/image_swap/Image_Swap.php:338
+#: widgets/marquee_image/Marquee_Image.php:382
+#: widgets/marquee_image/Marquee_Image.php:539
+#: widgets/marquee_image/Marquee_Image.php:671
+#: widgets/marquee_image/Marquee_Image.php:775
+#: widgets/marquee_image/Marquee_Image.php:879
+#: widgets/marquee_image/Marquee_Image.php:984
+#: widgets/marquee_image/Marquee_Image.php:1155
+#: widgets/masonry_gallery/Masonry_Gallery.php:273
+#: widgets/masonry_gallery/Masonry_Gallery.php:430
+#: widgets/masonry_gallery/Masonry_Gallery.php:521
+#: widgets/masonry_gallery/Masonry_Gallery.php:617
+#: widgets/masonry_gallery/Masonry_Gallery.php:700
+#: widgets/masonry_gallery/Masonry_Gallery.php:747
+#: widgets/mini_cart/Mini_Cart.php:491 widgets/mini_cart/Mini_Cart.php:595
+#: widgets/mini_cart/Mini_Cart.php:701 widgets/mini_cart/Mini_Cart.php:837
+#: widgets/mini_cart/Mini_Cart.php:1045 widgets/mini_cart/Mini_Cart.php:1170
+#: widgets/mini_cart/Mini_Cart.php:1411 widgets/mini_cart/Mini_Cart.php:1479
+#: widgets/mini_cart/Mini_Cart.php:1598 widgets/mini_cart/Mini_Cart.php:1815
+#: widgets/modal_popup/Modal_Popup.php:423
+#: widgets/modal_popup/Modal_Popup.php:653
+#: widgets/modal_popup/Modal_Popup.php:801
+#: widgets/modal_popup/Modal_Popup.php:966
+#: widgets/modal_popup/Modal_Popup.php:1125
+#: widgets/modal_popup/Modal_Popup.php:1214
+#: widgets/modal_popup/Modal_Popup.php:1264
+#: widgets/modal_popup/Modal_Popup.php:1328
+#: widgets/modal_popup/Modal_Popup.php:1392
+#: widgets/modal_popup/Modal_Popup.php:1507
+#: widgets/modal_popup/Modal_Popup.php:1651
+#: widgets/modal_popup/Modal_Popup.php:1840
+#: widgets/modal_popup/Modal_Popup.php:2127 widgets/panorama/Panorama.php:307
+#: widgets/panorama/Panorama.php:436 widgets/panorama/Panorama.php:576
+#: widgets/photo_frame/Photo_Frame.php:168
+#: widgets/photo_frame/Photo_Frame.php:305
+#: widgets/photo_frame/Photo_Frame.php:505
+#: widgets/photo_frame/Photo_Frame.php:613
+#: widgets/product_category_carousel/Product_Category_Carousel.php:236
+#: widgets/product_category_carousel/Product_Category_Carousel.php:259
+#: widgets/product_category_carousel/Product_Category_Carousel.php:336
+#: widgets/product_category_carousel/Product_Category_Carousel.php:540
+#: widgets/product_category_carousel/Product_Category_Carousel.php:775
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1011
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1191
+#: widgets/product_category_grid/Product_Category_Grid.php:125
+#: widgets/product_category_grid/Product_Category_Grid.php:202
+#: widgets/product_category_grid/Product_Category_Grid.php:406
+#: widgets/product_category_grid/Product_Category_Grid.php:641
+#: widgets/product_grid/Product_Grid.php:163
+#: widgets/product_grid/Product_Grid.php:251
+#: widgets/product_grid/Product_Grid.php:516
+#: widgets/product_grid/Product_Grid.php:657
+#: widgets/product_grid/Product_Grid.php:876
+#: widgets/product_grid/Product_Grid.php:1018
+#: widgets/product_grid/Product_Grid.php:1054
+#: widgets/product_single_category/Product_Single_Category.php:109
+#: widgets/product_single_category/Product_Single_Category.php:313
+#: widgets/product_single_category/Product_Single_Category.php:548
+#: widgets/product_viewer_360/Product_Viewer_360.php:231
+#: widgets/product_viewer_360/Product_Viewer_360.php:351
+#: widgets/team_carousel/Team_Carousel.php:381
+#: widgets/team_carousel/Team_Carousel.php:523
+#: widgets/team_carousel/Team_Carousel.php:691
+#: widgets/team_carousel/Team_Carousel.php:841
+#: widgets/team_carousel/Team_Carousel.php:964
+#: widgets/team_carousel/Team_Carousel.php:1095
+#: widgets/team_carousel/Team_Carousel.php:1181
+#: widgets/team_carousel/Team_Carousel.php:1263
+#: widgets/team_carousel/Team_Carousel.php:1345
+#: widgets/team_carousel/Team_Carousel.php:1423
+#: widgets/team_carousel/Team_Carousel.php:1673
+#: widgets/team_carousel/Team_Carousel.php:2218
+msgid "Margin"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:2017
+msgid "Margin Nav Next"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:2005
+msgid "Margin Nav Prev"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:254
+msgid "Marquee Content Settings"
+msgstr ""
+
+#: inc/Widgets_Flag.php:39 widgets/marquee_image/Marquee_Image.php:33
+msgid "Marquee Image"
+msgstr ""
+
+#: inc/Widgets_Flag.php:102 widgets/masonry_gallery/Masonry_Gallery.php:32
+msgid "Masonry Gallery"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:49
+msgid "Masonry Gallery Content"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:558
+msgid "Min Width"
+msgstr ""
+
+#: inc/Widgets_Flag.php:95 widgets/mini_cart/Mini_Cart.php:32
+msgid "Mini Cart"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:551
+msgid "Mini Cart Item Style"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:1375
+msgid "Mini Cart Item Title"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:447
+msgid "Mini Cart Offcanvas Style"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:655
+msgid "Mini Cart Offcanvas Title"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:1442
+msgid "Mini Cart Quantity Style"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:101
+msgid "Minicart Offcanvas Content"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:138
+msgid "Modal Effect Style"
+msgstr ""
+
+#: inc/Widgets_Flag.php:158 widgets/modal_popup/Modal_Popup.php:34
+msgid "Modal Popup"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:376
+msgid "Modal Popup Close Button Icon"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:132
+msgid "Modal Popup Content"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:51
+msgid "Modal Trigger Content"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:188
+msgid "More Details"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:129
+#: widgets/team_carousel/Team_Carousel.php:402
+msgid "Mouse Drag"
+msgstr ""
+
+#: modules/header-footer-scripts/edit-snippets.php:73
+#: modules/url-shortener/templates/edit-shortener.php:124
+msgid "Move to Trash"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:313
+#: widgets/photo_frame/Photo_Frame.php:76
+#: widgets/team_carousel/Team_Carousel.php:57
+msgid "Name"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:185
+#: widgets/team_carousel/Team_Carousel.php:458
+msgid "Nav"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:1979
+msgid "Nav Alignment"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1080
+#: widgets/team_carousel/Team_Carousel.php:2085
+msgid "Nav Background"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:1862
+msgid "Nav Bottom Position"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1069
+#: widgets/team_carousel/Team_Carousel.php:2074
+msgid "Nav Color"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1111
+#: widgets/team_carousel/Team_Carousel.php:2116
+msgid "Nav Hover Background"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1100
+#: widgets/team_carousel/Team_Carousel.php:2105
+msgid "Nav Hover Color"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:1897
+msgid "Nav Item Settings"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:1829
+msgid "Nav Setings"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:1836
+msgid "Nav Top Position"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:1889
+msgid "Nav Wrapper Settings"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:237
+msgid "New"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:143
+msgid "Newspaper"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:120
+#: widgets/product_category_carousel/Product_Category_Carousel.php:132
+#: widgets/product_category_carousel/Product_Category_Carousel.php:144
+#: widgets/product_category_carousel/Product_Category_Carousel.php:155
+#: widgets/product_category_carousel/Product_Category_Carousel.php:166
+#: widgets/product_category_carousel/Product_Category_Carousel.php:177
+#: widgets/product_category_carousel/Product_Category_Carousel.php:188
+#: widgets/product_category_carousel/Product_Category_Carousel.php:199
+#: widgets/product_category_carousel/Product_Category_Carousel.php:210
+#: widgets/team_carousel/Team_Carousel.php:393
+#: widgets/team_carousel/Team_Carousel.php:405
+#: widgets/team_carousel/Team_Carousel.php:417
+#: widgets/team_carousel/Team_Carousel.php:428
+#: widgets/team_carousel/Team_Carousel.php:439
+#: widgets/team_carousel/Team_Carousel.php:450
+#: widgets/team_carousel/Team_Carousel.php:461
+#: widgets/team_carousel/Team_Carousel.php:472
+#: widgets/team_carousel/Team_Carousel.php:483
+msgid "NO"
+msgstr ""
+
+#: inc/Hooks_Callback.php:94 inc/Hooks_Callback.php:126
+#: widgets/advanced_data_table/Advanced_Data_Table.php:136
+#: widgets/advanced_data_table/Advanced_Data_Table.php:245
+#: widgets/advanced_data_table/Advanced_Data_Table.php:256
+#: widgets/advanced_data_table/Advanced_Data_Table.php:267
+#: widgets/advanced_data_table/Advanced_Data_Table.php:278
+#: widgets/advanced_data_table/Advanced_Data_Table.php:292
+#: widgets/iframe/Iframe.php:80 widgets/iframe/Iframe.php:91
+#: widgets/iframe/Iframe.php:102 widgets/marquee_image/Marquee_Image.php:97
+#: widgets/marquee_image/Marquee_Image.php:174 widgets/panorama/Panorama.php:99
+#: widgets/panorama/Panorama.php:184 widgets/panorama/Panorama.php:195
+#: widgets/panorama/Panorama.php:206
+#: widgets/product_category_carousel/Product_Category_Carousel.php:57
+#: widgets/product_category_grid/Product_Category_Grid.php:57
+#: widgets/product_single_category/Product_Single_Category.php:57
+#: widgets/product_viewer_360/Product_Viewer_360.php:121
+#: widgets/team_carousel/Team_Carousel.php:136
+#: modules/url-shortener/templates/link-tracking.php:19
+#: modules/url-shortener/templates/link-tracking.php:40
+msgid "No"
+msgstr ""
+
+#: widgets/product_category_carousel/traits/Template_1.php:77
+msgid "No category found."
+msgstr ""
+
+#: inc/Cross_CP.php:42
+msgid "No Content Found"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:825
+#: widgets/modal_popup/Modal_Popup.php:79
+#: widgets/team_carousel/Team_Carousel.php:1405
+#: modules/url-shortener/templates/add-shortener.php:74
+#: modules/url-shortener/templates/edit-shortener.php:91
+msgid "None"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:449
+#: widgets/advanced_data_table/Advanced_Data_Table.php:576
+#: widgets/advanced_data_table/Advanced_Data_Table.php:690
+#: widgets/advanced_data_table/Advanced_Data_Table.php:1004
+#: widgets/comparison_table/Comparison_Table.php:616
+#: widgets/comparison_table/Comparison_Table.php:1338
+#: widgets/comparison_table/Comparison_Table.php:1438
+#: widgets/comparison_table/Comparison_Table.php:1804
+#: widgets/domain_search/Domain_Search.php:671
+#: widgets/domain_search/Domain_Search.php:1459
+#: widgets/image_hover_effect/Image_Hover_Effect.php:698
+#: widgets/image_hover_effect/Image_Hover_Effect.php:861
+#: widgets/masonry_gallery/Masonry_Gallery.php:303
+#: widgets/masonry_gallery/Masonry_Gallery.php:815
+#: widgets/mini_cart/Mini_Cart.php:743 widgets/mini_cart/Mini_Cart.php:1581
+#: widgets/mini_cart/Mini_Cart.php:1798 widgets/modal_popup/Modal_Popup.php:410
+#: widgets/modal_popup/Modal_Popup.php:1599
+#: widgets/modal_popup/Modal_Popup.php:1827
+#: widgets/photo_frame/Photo_Frame.php:472
+#: widgets/product_category_carousel/Product_Category_Carousel.php:329
+#: widgets/product_category_carousel/Product_Category_Carousel.php:567
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1062
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1234
+#: widgets/product_category_grid/Product_Category_Grid.php:195
+#: widgets/product_category_grid/Product_Category_Grid.php:433
+#: widgets/product_grid/Product_Grid.php:244
+#: widgets/product_grid/Product_Grid.php:509
+#: widgets/product_grid/Product_Grid.php:734
+#: widgets/product_grid/Product_Grid.php:1081
+#: widgets/product_single_category/Product_Single_Category.php:102
+#: widgets/product_single_category/Product_Single_Category.php:340
+#: widgets/team_carousel/Team_Carousel.php:684
+#: widgets/team_carousel/Team_Carousel.php:906
+#: widgets/team_carousel/Team_Carousel.php:1071
+#: widgets/team_carousel/Team_Carousel.php:1157
+#: widgets/team_carousel/Team_Carousel.php:1239
+#: widgets/team_carousel/Team_Carousel.php:1321
+#: widgets/team_carousel/Team_Carousel.php:1453
+#: widgets/team_carousel/Team_Carousel.php:1584
+#: widgets/team_carousel/Team_Carousel.php:2067
+#: widgets/team_carousel/Team_Carousel.php:2259
+msgid "Normal"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:229
+#: widgets/accordion_tab/Accordion_Tab.php:348
+#: widgets/accordion_tab/Accordion_Tab.php:1136
+msgid "Normal Style"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:315
+msgid "Not"
+msgstr ""
+
+#: inc/Cross_CP.php:36
+msgid "Not a Valid User"
+msgstr ""
+
+#: inc/Helper.php:156
+msgid "Not added, Please try again."
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:612
+#: widgets/comparison_table/Comparison_Table.php:1354
+msgid "Odd Row Background"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:660
+msgid "Odd Row Hover Background"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:650
+msgid "Odd Row Hover Text Color"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:602
+msgid "Odd Row Text Color"
+msgstr ""
+
+#: widgets/product_viewer_360/Product_Viewer_360.php:99
+#: widgets/product_viewer_360/Product_Viewer_360.php:110
+#: widgets/source_code/Source_Code.php:95
+#: widgets/source_code/Source_Code.php:120
+msgid "Off"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:929
+msgid "Offcanvas Close Button"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:733
+msgid "Offcanvas Logo Style"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:107
+msgid "Offcanvas Title Logo"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:454
+msgid "Offcanvas Width"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:173
+msgid "Offer Show"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1190
+#: widgets/modal_popup/Modal_Popup.php:908
+msgid "Offset X"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1212
+#: widgets/modal_popup/Modal_Popup.php:883
+msgid "Offset Y"
+msgstr ""
+
+#: widgets/product_viewer_360/Product_Viewer_360.php:98
+#: widgets/product_viewer_360/Product_Viewer_360.php:109
+#: widgets/source_code/Source_Code.php:94
+#: widgets/source_code/Source_Code.php:119
+msgid "On"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:115
+msgid "On Sale"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:431
+msgid "Only for timer effect"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:524
+#: widgets/accordion_tab/Accordion_Tab.php:896
+#: widgets/mini_cart/Mini_Cart.php:1024
+msgid "Opacity"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:175
+msgid "Option"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:838
+msgid "Options Style"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:83
+#: widgets/product_category_grid/Product_Category_Grid.php:83
+#: widgets/product_grid/Product_Grid.php:94
+msgid "Order"
+msgstr ""
+
+#: widgets/photo_frame/Photo_Frame.php:356
+msgid "Outline"
+msgstr ""
+
+#: widgets/photo_frame/Photo_Frame.php:405
+msgid "Outline Color"
+msgstr ""
+
+#: widgets/photo_frame/Photo_Frame.php:380
+msgid "Outline Offset"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:1085
+msgid "Overlay Color"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:248
+#: widgets/accordion_tab/Accordion_Tab.php:384
+#: widgets/accordion_tab/Accordion_Tab.php:599
+#: widgets/accordion_tab/Accordion_Tab.php:686
+#: widgets/accordion_tab/Accordion_Tab.php:807
+#: widgets/accordion_tab/Accordion_Tab.php:884
+#: widgets/accordion_tab/Accordion_Tab.php:976
+#: widgets/accordion_tab/Accordion_Tab.php:1097
+#: widgets/accordion_tab/Accordion_Tab.php:1172
+#: widgets/advanced_data_table/Advanced_Data_Table.php:355
+#: widgets/advanced_data_table/Advanced_Data_Table.php:409
+#: widgets/advanced_data_table/Advanced_Data_Table.php:526
+#: widgets/advanced_data_table/Advanced_Data_Table.php:715
+#: widgets/advanced_data_table/Advanced_Data_Table.php:860
+#: widgets/advanced_data_table/Advanced_Data_Table.php:969
+#: widgets/comparison_table/Comparison_Table.php:498
+#: widgets/comparison_table/Comparison_Table.php:538
+#: widgets/comparison_table/Comparison_Table.php:705
+#: widgets/comparison_table/Comparison_Table.php:925
+#: widgets/comparison_table/Comparison_Table.php:1208
+#: widgets/comparison_table/Comparison_Table.php:1266
+#: widgets/comparison_table/Comparison_Table.php:1544
+#: widgets/comparison_table/Comparison_Table.php:1693
+#: widgets/comparison_table/Comparison_Table.php:1743
+#: widgets/domain_search/Domain_Search.php:379
+#: widgets/domain_search/Domain_Search.php:489
+#: widgets/domain_search/Domain_Search.php:567
+#: widgets/domain_search/Domain_Search.php:740
+#: widgets/domain_search/Domain_Search.php:885
+#: widgets/domain_search/Domain_Search.php:948
+#: widgets/domain_search/Domain_Search.php:982
+#: widgets/domain_search/Domain_Search.php:1053
+#: widgets/domain_search/Domain_Search.php:1271
+#: widgets/domain_search/Domain_Search.php:1586
+#: widgets/domain_search/Domain_Search.php:1750 widgets/iframe/Iframe.php:187
+#: widgets/iframe/Iframe.php:316
+#: widgets/image_hover_effect/Image_Hover_Effect.php:373
+#: widgets/image_hover_effect/Image_Hover_Effect.php:521
+#: widgets/image_hover_effect/Image_Hover_Effect.php:614
+#: widgets/image_hover_effect/Image_Hover_Effect.php:669
+#: widgets/image_hover_effect/Image_Hover_Effect.php:1052
+#: widgets/image_swap/Image_Swap.php:226 widgets/image_swap/Image_Swap.php:350
+#: widgets/marquee_image/Marquee_Image.php:394
+#: widgets/marquee_image/Marquee_Image.php:552
+#: widgets/marquee_image/Marquee_Image.php:683
+#: widgets/marquee_image/Marquee_Image.php:787
+#: widgets/marquee_image/Marquee_Image.php:891
+#: widgets/marquee_image/Marquee_Image.php:996
+#: widgets/marquee_image/Marquee_Image.php:1167
+#: widgets/masonry_gallery/Masonry_Gallery.php:286
+#: widgets/masonry_gallery/Masonry_Gallery.php:442
+#: widgets/masonry_gallery/Masonry_Gallery.php:533
+#: widgets/masonry_gallery/Masonry_Gallery.php:629
+#: widgets/masonry_gallery/Masonry_Gallery.php:712
+#: widgets/masonry_gallery/Masonry_Gallery.php:771
+#: widgets/mini_cart/Mini_Cart.php:503 widgets/mini_cart/Mini_Cart.php:607
+#: widgets/mini_cart/Mini_Cart.php:713 widgets/mini_cart/Mini_Cart.php:849
+#: widgets/mini_cart/Mini_Cart.php:1057 widgets/mini_cart/Mini_Cart.php:1182
+#: widgets/mini_cart/Mini_Cart.php:1423 widgets/mini_cart/Mini_Cart.php:1491
+#: widgets/mini_cart/Mini_Cart.php:1610 widgets/mini_cart/Mini_Cart.php:1827
+#: widgets/modal_popup/Modal_Popup.php:435
+#: widgets/modal_popup/Modal_Popup.php:665
+#: widgets/modal_popup/Modal_Popup.php:1045
+#: widgets/modal_popup/Modal_Popup.php:1137
+#: widgets/modal_popup/Modal_Popup.php:1404
+#: widgets/modal_popup/Modal_Popup.php:1519
+#: widgets/modal_popup/Modal_Popup.php:1663
+#: widgets/modal_popup/Modal_Popup.php:1852
+#: widgets/modal_popup/Modal_Popup.php:2139 widgets/panorama/Panorama.php:319
+#: widgets/panorama/Panorama.php:448 widgets/panorama/Panorama.php:589
+#: widgets/photo_frame/Photo_Frame.php:182
+#: widgets/photo_frame/Photo_Frame.php:319
+#: widgets/photo_frame/Photo_Frame.php:517
+#: widgets/photo_frame/Photo_Frame.php:625
+#: widgets/product_category_carousel/Product_Category_Carousel.php:271
+#: widgets/product_category_carousel/Product_Category_Carousel.php:348
+#: widgets/product_category_carousel/Product_Category_Carousel.php:552
+#: widgets/product_category_carousel/Product_Category_Carousel.php:787
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1023
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1203
+#: widgets/product_category_grid/Product_Category_Grid.php:137
+#: widgets/product_category_grid/Product_Category_Grid.php:214
+#: widgets/product_category_grid/Product_Category_Grid.php:418
+#: widgets/product_category_grid/Product_Category_Grid.php:653
+#: widgets/product_grid/Product_Grid.php:175
+#: widgets/product_grid/Product_Grid.php:263
+#: widgets/product_grid/Product_Grid.php:528
+#: widgets/product_grid/Product_Grid.php:669
+#: widgets/product_grid/Product_Grid.php:888
+#: widgets/product_grid/Product_Grid.php:1066
+#: widgets/product_single_category/Product_Single_Category.php:121
+#: widgets/product_single_category/Product_Single_Category.php:325
+#: widgets/product_single_category/Product_Single_Category.php:560
+#: widgets/product_viewer_360/Product_Viewer_360.php:243
+#: widgets/team_carousel/Team_Carousel.php:535
+#: widgets/team_carousel/Team_Carousel.php:703
+#: widgets/team_carousel/Team_Carousel.php:853
+#: widgets/team_carousel/Team_Carousel.php:976
+#: widgets/team_carousel/Team_Carousel.php:1107
+#: widgets/team_carousel/Team_Carousel.php:1193
+#: widgets/team_carousel/Team_Carousel.php:1275
+#: widgets/team_carousel/Team_Carousel.php:1357
+#: widgets/team_carousel/Team_Carousel.php:1435
+#: widgets/team_carousel/Team_Carousel.php:1685
+#: widgets/team_carousel/Team_Carousel.php:2029
+#: widgets/team_carousel/Team_Carousel.php:2230
+msgid "Padding"
+msgstr ""
+
+#: modules/url-shortener/templates/add-shortener.php:45
+#: modules/url-shortener/templates/edit-shortener.php:60
+msgid "Page"
+msgstr ""
+
+#: modules/url-shortener/templates/add-shortener.php:54
+#: modules/url-shortener/templates/edit-shortener.php:69
+msgid "Page Shortable Url"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:108
+msgid "Pages"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:912
+msgid "Pagination"
+msgstr ""
+
+#: inc/Widgets_Flag.php:130 widgets/panorama/Panorama.php:32
+msgid "Panorama Viewer"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:148
+msgid "Paste Data CSV formate. First Row will be Header "
+msgstr ""
+
+#: widgets/advanced_data_table/traits/Template_3.php:21
+msgid "Paste Table Data in CSV formate"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:314
+msgid "Pause"
+msgstr ""
+
+#: inc/Widgets_Flag.php:81 widgets/photo_frame/Photo_Frame.php:32
+msgid "Photo Frame"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:139
+msgid "Pitch"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:206
+msgid "Placeholder"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1348
+msgid "Placeholder Color"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:69
+msgid "Placeholder Text"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1310
+#: widgets/product_category_grid/Product_Category_Grid.php:822
+#: widgets/product_grid/Product_Grid.php:1169
+#: widgets/product_single_category/Product_Single_Category.php:730
+msgid "Please install and activate the WooCommerce plugin."
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:1949
+msgid "Please install and active WooCommerce plugin"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/General_Settings_Tab.php:40
+#: settings-panel/inc/tabscontent/Image_Compress_Settings_Tab.php:36
+msgid "Png Image Quality"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:156
+msgid "Popular"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:1206
+msgid "Popup Content Wrapper"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:1110
+msgid "Popup Header Style"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:1018
+msgid "Popup Height"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:1447
+msgid "Popup Image Style"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:991
+msgid "Popup Width"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:984
+msgid "Popup Wrapper Style"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:656
+#: widgets/product_category_grid/Product_Category_Grid.php:522
+#: widgets/product_single_category/Product_Single_Category.php:429
+msgid "Position Type"
+msgstr ""
+
+#: modules/url-shortener/templates/add-shortener.php:44
+#: modules/url-shortener/templates/edit-shortener.php:59
+msgid "Post"
+msgstr ""
+
+#: modules/url-shortener/templates/add-shortener.php:63
+#: modules/url-shortener/templates/edit-shortener.php:78
+msgid "Post Shortable Url"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:107
+msgid "Posts"
+msgstr ""
+
+#. Description of the plugin
+msgid "Preferred Addons For Elementor And WordPress"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:372
+msgid "Preloader Settings"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Image_Compress_Tab.php:34
+#: settings-panel/inc/tabscontent/Image_Compress_Tab.php:52
+#: settings-panel/inc/tabscontent/Webp_Convert_Tab.php:123
+msgid "Preview"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:90
+#: widgets/comparison_table/Comparison_Table.php:954
+#: widgets/domain_search/Domain_Search.php:320
+#: widgets/product_grid/Product_Grid.php:932
+msgid "Price"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:962
+#: widgets/product_grid/Product_Grid.php:938
+msgid "Price Color"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:846
+msgid "Price Rating Position"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:811
+msgid "Pricing Area"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:804
+msgid "Pricing Style"
+msgstr ""
+
+#: widgets/product_single_category/Product_Single_Category.php:75
+msgid "Product Category"
+msgstr ""
+
+#: inc/Widgets_Flag.php:53
+#: widgets/product_category_carousel/Product_Category_Carousel.php:31
+msgid "Product Category Carousel"
+msgstr ""
+
+#: inc/Widgets_Flag.php:60
+#: widgets/product_category_grid/Product_Category_Grid.php:31
+msgid "Product Category Grid"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:65
+#: widgets/product_category_grid/Product_Category_Grid.php:65
+#: widgets/product_single_category/Product_Single_Category.php:66
+msgid "Product Count Text"
+msgstr ""
+
+#: inc/Widgets_Flag.php:74 widgets/product_grid/Product_Grid.php:32
+msgid "Product Grid"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:51
+msgid "Product Grid Content"
+msgstr ""
+
+#: widgets/product_viewer_360/Product_Viewer_360.php:298
+msgid "Product Image  Style"
+msgstr ""
+
+#: widgets/product_viewer_360/Product_Viewer_360.php:72
+msgid "Product Image List"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:74
+#: widgets/product_grid/Product_Grid.php:85
+msgid "Product Limit"
+msgstr ""
+
+#: inc/Widgets_Flag.php:67
+#: widgets/product_single_category/Product_Single_Category.php:31
+msgid "Product Single Category"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:108
+msgid "Product Type"
+msgstr ""
+
+#: widgets/product_viewer_360/Product_Viewer_360.php:146
+msgid "Product Viewer Wrapper Style"
+msgstr ""
+
+#: modules/header-footer-scripts/add-snippets.php:53
+#: modules/header-footer-scripts/add-snippets.php:61
+#: modules/header-footer-scripts/edit-snippets.php:62
+#: modules/url-shortener/templates/add-shortener.php:94
+#: modules/url-shortener/templates/add-shortener.php:102
+#: modules/url-shortener/templates/edit-shortener.php:113
+msgid "Publish"
+msgstr ""
+
+#: modules/header-footer-scripts/snippets-page.php:74
+#: modules/url-shortener/templates/shortener-page.php:78
+msgid "Published"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:165
+msgid "Push Down"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:166
+msgid "Push Left"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:167
+msgid "Push Right"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:164
+msgid "Push Up"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:113
+#: widgets/modal_popup/Modal_Popup.php:251
+msgid "Rahi Saiful"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:979
+msgid "Rating"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:986
+msgid "Rating Color"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:113
+msgid "Recent Product"
+msgstr ""
+
+#: modules/url-shortener/templates/add-shortener.php:71
+#: modules/url-shortener/templates/edit-shortener.php:87
+msgid "Redirection"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:661
+#: widgets/product_category_grid/Product_Category_Grid.php:527
+#: widgets/product_single_category/Product_Single_Category.php:434
+msgid "Relative"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Accessibilities_Security_Tab.php:45
+msgid "Remove oEmbed links"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Tweaks_Tab.php:69
+msgid "Remove Query Strings"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Accessibilities_Security_Tab.php:51
+msgid "Remove REST API in HTTP Headers"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Accessibilities_Security_Tab.php:39
+msgid "Remove Rest Output Link"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Accessibilities_Security_Tab.php:33
+msgid "Remove Rsd Link"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Accessibilities_Security_Tab.php:63
+msgid "Remove Shortlink"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Accessibilities_Security_Tab.php:57
+msgid "Remove WLW Manifest"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Accessibilities_Security_Tab.php:27
+msgid "Remove WP Version"
+msgstr ""
+
+#: enteraddons-pro.php:142
+msgid "requires"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Webp_Convert_Tab.php:83
+msgid "Reset"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:132
+msgid "Reset Google Sheet "
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:173
+msgid "Reveal Down"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:174
+msgid "Reveal Left"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:175
+msgid "Reveal Right"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:172
+msgid "Reveal Up"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:217
+#: widgets/image_hover_effect/Image_Hover_Effect.php:947
+msgid "Ribbon"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:234
+msgid "Ribbon Title"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:433
+#: widgets/advanced_data_table/Advanced_Data_Table.php:558
+#: widgets/comparison_table/Comparison_Table.php:601
+#: widgets/comparison_table/Comparison_Table.php:847
+#: widgets/comparison_table/Comparison_Table.php:1293
+#: widgets/comparison_table/Comparison_Table.php:1320
+#: widgets/image_hover_effect/Image_Hover_Effect.php:123
+#: widgets/image_hover_effect/Image_Hover_Effect.php:139
+#: widgets/image_hover_effect/Image_Hover_Effect.php:268
+#: widgets/marquee_image/Marquee_Image.php:279
+#: widgets/marquee_image/Marquee_Image.php:1058
+#: widgets/masonry_gallery/Masonry_Gallery.php:653
+#: widgets/mini_cart/Mini_Cart.php:81 widgets/modal_popup/Modal_Popup.php:506
+#: widgets/modal_popup/Modal_Popup.php:737
+#: widgets/modal_popup/Modal_Popup.php:1288
+#: widgets/modal_popup/Modal_Popup.php:1352
+#: widgets/modal_popup/Modal_Popup.php:1428
+#: widgets/modal_popup/Modal_Popup.php:1571
+#: widgets/modal_popup/Modal_Popup.php:1760
+#: widgets/modal_popup/Modal_Popup.php:1923 widgets/panorama/Panorama.php:241
+#: widgets/photo_frame/Photo_Frame.php:541
+#: widgets/photo_frame/Photo_Frame.php:649
+#: widgets/product_category_carousel/Product_Category_Carousel.php:526
+#: widgets/product_category_carousel/Product_Category_Carousel.php:885
+#: widgets/product_category_grid/Product_Category_Grid.php:392
+#: widgets/product_category_grid/Product_Category_Grid.php:751
+#: widgets/product_grid/Product_Grid.php:491
+#: widgets/product_grid/Product_Grid.php:643
+#: widgets/product_grid/Product_Grid.php:862
+#: widgets/product_single_category/Product_Single_Category.php:299
+#: widgets/product_single_category/Product_Single_Category.php:658
+#: widgets/product_viewer_360/Product_Viewer_360.php:217
+#: widgets/team_carousel/Team_Carousel.php:640
+#: widgets/team_carousel/Team_Carousel.php:826
+#: widgets/team_carousel/Team_Carousel.php:1748
+#: widgets/team_carousel/Team_Carousel.php:1991
+#: widgets/team_carousel/Team_Carousel.php:2152
+msgid "Right"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:614
+msgid "Right Layout"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:122
+msgid "Right To Left"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:153
+msgid "Rotate-Bottom"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:152
+msgid "Rotate-Top"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:140
+msgid "Rotation"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:174
+#: widgets/comparison_table/Comparison_Table.php:208
+msgid "Row"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1404
+msgid "Row Hover Background"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:855
+#: widgets/product_category_grid/Product_Category_Grid.php:721
+#: widgets/product_single_category/Product_Single_Category.php:628
+msgid "Row Layout"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:170
+#: widgets/comparison_table/Comparison_Table.php:204
+msgid "Row/Column"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:124
+msgid "Scene"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:88
+msgid "Scrolling"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:274
+msgid "Scrolling direction"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:845
+#: widgets/domain_search/Domain_Search.php:244
+msgid "Search"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1449
+msgid "Search Button Style"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:199
+msgid "Search Form Content"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:430
+#: widgets/domain_search/Domain_Search.php:1323
+msgid "Search Form Style"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:81
+msgid "Search Now"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:67
+msgid "Second Image"
+msgstr ""
+
+#: settings-panel/Accessibilities_Settings_Panel.php:18
+msgid "Security"
+msgstr ""
+
+#: widgets/modal_popup/traits/Templates_Components.php:126
+msgid "See Details"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:217
+msgid "Select"
+msgstr ""
+
+#: inc/Helper.php:75
+msgid "Select a Footer"
+msgstr ""
+
+#: inc/Helper.php:43
+msgid "Select a Header"
+msgstr ""
+
+#: modules/header-footer-scripts/snippets-page.php:22
+#: modules/header-footer-scripts/snippets-page.php:85
+#: modules/url-shortener/templates/shortener-page.php:20
+#: modules/url-shortener/templates/shortener-page.php:88
+#: settings-panel/inc/tabscontent/Image_Compress_Tab.php:33
+#: settings-panel/inc/tabscontent/Webp_Convert_Tab.php:118
+msgid "Select All"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1358
+msgid "Select Arrow Color"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1391
+msgid "Select Arrow Icon Position"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:275
+msgid "Select First Content Direction "
+msgstr ""
+
+#: widgets/photo_frame/Photo_Frame.php:53
+msgid "Select Photo Frame"
+msgstr ""
+
+#: modules/header-footer-scripts/snippets-page.php:59
+#: modules/url-shortener/templates/shortener-page.php:62
+msgid "Select snippet"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:54
+msgid "Select Style"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/General_Settings_Tab.php:61
+#: settings-panel/inc/tabscontent/Image_Compress_Settings_Tab.php:48
+msgid "Self System"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:72
+msgid "Set HTML Tag"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Maintenance_Mode_Tab.php:33
+msgid "Set Maintenance Mode Page"
+msgstr ""
+
+#: settings-panel/Image_Compress_Settings_Panel.php:19
+msgid "Settings"
+msgstr ""
+
+#: settings-panel/Settings_Panel_Base.php:27
+msgid "Settings Saved"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1180
+msgid "Shake"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:76
+msgid "Shine"
+msgstr ""
+
+#: modules/url-shortener/templates/shortener-page.php:30
+#: modules/url-shortener/templates/shortener-page.php:98
+msgid "Short Link"
+msgstr ""
+
+#: modules/url-shortener/templates/add-shortener.php:39
+#: modules/url-shortener/templates/edit-shortener.php:53
+msgid "Shortable Url Type"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:68
+#: widgets/comparison_table/Comparison_Table.php:129
+#: widgets/comparison_table/Comparison_Table.php:238
+#: widgets/domain_search/Domain_Search.php:107
+#: widgets/domain_search/Domain_Search.php:176
+#: widgets/image_hover_effect/Image_Hover_Effect.php:225
+#: widgets/masonry_gallery/Masonry_Gallery.php:72
+#: widgets/modal_popup/Modal_Popup.php:164
+#: widgets/modal_popup/Modal_Popup.php:209
+msgid "Show"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:127
+msgid "Show Badge"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:69
+msgid "Show Button"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:203
+msgid "Show Controls"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:104
+msgid "Show Domain Type?"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:1108
+msgid "Show Entries Color"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:162
+msgid "Show Header"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:96
+msgid "Show Hot Spots"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:233
+msgid "Show Icon"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:66
+#: widgets/modal_popup/Modal_Popup.php:206
+msgid "Show Image"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:54
+#: widgets/product_category_grid/Product_Category_Grid.php:54
+#: widgets/product_single_category/Product_Single_Category.php:54
+msgid "Show Product Count"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:223
+msgid "Show Ribbon"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:133
+msgid "Show Social Icon"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:192
+msgid "Show Zoom Ctrl"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:188
+msgid "Shutter In Horiz"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:192
+msgid "Shutter In Out Diag 1"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:193
+msgid "Shutter In Out Diag 2"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:190
+msgid "Shutter In Out Horiz"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:191
+msgid "Shutter In Out Vert"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:189
+msgid "Shutter In Vert"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:186
+msgid "Shutter Out Diag 1"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:187
+msgid "Shutter Out Diag 2"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:184
+msgid "Shutter Out Horiz"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:185
+msgid "Shutter Out Vert"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:131
+msgid "Simple Product Add To Cart Button Text"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:996
+#: settings-panel/inc/tabscontent/Image_Compress_Tab.php:35
+#: settings-panel/inc/tabscontent/Image_Compress_Tab.php:53
+msgid "Size"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:93
+msgid "Slide"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:169
+msgid "Slide Down"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:591
+msgid "Slide Item Settings"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:170
+msgid "Slide Left"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:171
+msgid "Slide Right"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:168
+msgid "Slide Up"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:147
+msgid "Slide-In-Bottom"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:145
+msgid "Slide-In-left"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:146
+msgid "Slide-In-Right"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:144
+msgid "Slide-In-Top"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:100
+#: widgets/team_carousel/Team_Carousel.php:364
+msgid "Slider Settings"
+msgstr ""
+
+#: modules/url-shortener/templates/add-shortener.php:34
+#: modules/url-shortener/templates/edit-shortener.php:49
+#: modules/url-shortener/templates/shortener-page.php:29
+#: modules/url-shortener/templates/shortener-page.php:97
+msgid "Slug"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:227
+#: widgets/team_carousel/Team_Carousel.php:500
+msgid "Smart Speed"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:77
+msgid "Snippet Type"
+msgstr ""
+
+#: modules/header-footer-scripts/snippets-page.php:16
+msgid "Snippets"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:293
+#: widgets/team_carousel/Team_Carousel.php:125
+#: widgets/team_carousel/Team_Carousel.php:1571
+msgid "Social Icon"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:1590
+msgid "Social Icon Style"
+msgstr ""
+
+#: inc/Widgets_Flag.php:88 widgets/source_code/Source_Code.php:32
+msgid "Source Code"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:858
+msgid "Space Between"
+msgstr ""
+
+#. page title
+#: inc/Extensions_Flag.php:40 modules/speedup/Speedup.php:26
+#: modules/speedup/Speedup.php:27
+msgid "Speedup"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:379
+msgid "Spring Color"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:373
+msgid "SSD Storage"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:58
+#: modules/header-footer-scripts/snippets-page.php:29
+#: modules/header-footer-scripts/snippets-page.php:92
+msgid "Status"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:151
+msgid "Sticky-Bottom"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:150
+msgid "Sticky-Top"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:143
+#: widgets/domain_search/Domain_Search.php:58
+msgid "Style 1"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:144
+#: widgets/domain_search/Domain_Search.php:59
+msgid "Style 2"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:145
+msgid "Style 3"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:164
+#: widgets/domain_search/Domain_Search.php:1126
+#: widgets/modal_popup/Modal_Popup.php:119
+#: widgets/modal_popup/Modal_Popup.php:257
+#: widgets/modal_popup/Modal_Popup.php:1302
+msgid "Sub Title"
+msgstr ""
+
+#: inc/Helper.php:150
+msgid "Successful added."
+msgstr ""
+
+#: inc/Hooks_Callback.php:172
+msgid "Successfully Pasted"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:160
+msgid "Table Content"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:512
+msgid "Table Content Style"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:275
+msgid "Table Info Show"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:236
+msgid "Table Settings"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:56
+msgid "Table Type"
+msgstr ""
+
+#: inc/Widgets_Flag.php:46 widgets/team_carousel/Team_Carousel.php:32
+msgid "Team Carousel"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:50
+msgid "Team Content"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:334
+msgid "Team Member List"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:188
+msgid "Template"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:196
+msgid "Templates"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:235
+#: widgets/domain_search/Domain_Search.php:242
+#: widgets/marquee_image/Marquee_Image.php:62
+#: widgets/marquee_image/Marquee_Image.php:183
+#: widgets/panorama/Panorama.php:647
+msgid "Text"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:1624
+#: widgets/image_hover_effect/Image_Hover_Effect.php:704
+#: widgets/image_hover_effect/Image_Hover_Effect.php:955
+#: widgets/masonry_gallery/Masonry_Gallery.php:310
+#: widgets/masonry_gallery/Masonry_Gallery.php:822
+#: widgets/mini_cart/Mini_Cart.php:1587 widgets/mini_cart/Mini_Cart.php:1804
+msgid "Text Color"
+msgstr ""
+
+#: widgets/mini_cart/Mini_Cart.php:1669 widgets/mini_cart/Mini_Cart.php:1886
+msgid "Text Hover Color"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:225
+msgid "Text List"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:730
+msgid "Text Style"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:920
+#: widgets/product_category_grid/Product_Category_Grid.php:786
+#: widgets/product_grid/Product_Grid.php:1047
+#: widgets/product_single_category/Product_Single_Category.php:693
+msgid "Text Typography"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:342
+msgid ""
+"The general scientific approach has three The first is systematic empiricism "
+"lorem ipsum"
+msgstr ""
+
+#: widgets/source_code/Source_Code.php:129
+msgid "Theme"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeLooks"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:68
+msgid "This is title"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:453
+msgid "Thumbnail Height"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:427
+msgid "Thumbnail Max Width"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:401
+msgid "Thumbnail Width"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:376
+msgid "Thumbnail Wrapper Margin"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:388
+msgid "Thumbnail Wrapper Padding"
+msgstr ""
+
+#: modules/url-shortener/templates/link-tracking.php:22
+#: modules/url-shortener/templates/link-tracking.php:43
+msgid "Time Zone"
+msgstr ""
+
+#: modules/header-footer-scripts/snippets-page.php:26
+#: modules/header-footer-scripts/snippets-page.php:89
+#: widgets/accordion_tab/Accordion_Tab.php:58
+#: widgets/advanced_data_table/Advanced_Data_Table.php:73
+#: widgets/comparison_table/Comparison_Table.php:57
+#: widgets/domain_search/Domain_Search.php:155
+#: widgets/domain_search/Domain_Search.php:1101
+#: widgets/image_hover_effect/Image_Hover_Effect.php:66
+#: widgets/image_hover_effect/Image_Hover_Effect.php:577
+#: widgets/masonry_gallery/Masonry_Gallery.php:170
+#: widgets/modal_popup/Modal_Popup.php:109
+#: widgets/modal_popup/Modal_Popup.php:247
+#: widgets/modal_popup/Modal_Popup.php:768
+#: widgets/modal_popup/Modal_Popup.php:1238 widgets/panorama/Panorama.php:110
+#: widgets/photo_frame/Photo_Frame.php:458
+#: widgets/team_carousel/Team_Carousel.php:1060
+#: modules/url-shortener/templates/shortener-page.php:24
+#: modules/url-shortener/templates/shortener-page.php:92
+#: settings-panel/inc/tabscontent/Url_Shortener_Tab.php:30
+#: settings-panel/inc/tabscontent/Url_Shortener_Tab.php:50
+msgid "Title"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:436
+msgid "Title Active Color"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:813
+msgid "Title After"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:420
+#: widgets/comparison_table/Comparison_Table.php:588
+msgid "Title Alignment"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:309
+#: widgets/accordion_tab/Accordion_Tab.php:448
+msgid "Title Background"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:791
+msgid "Title Border"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:354
+#: widgets/domain_search/Domain_Search.php:1116
+#: widgets/domain_search/Domain_Search.php:1141
+#: widgets/domain_search/Domain_Search.php:1698
+#: widgets/domain_search/Domain_Search.php:1723
+#: widgets/image_hover_effect/Image_Hover_Effect.php:584
+#: widgets/image_hover_effect/Image_Hover_Effect.php:639
+#: widgets/photo_frame/Photo_Frame.php:478
+#: widgets/photo_frame/Photo_Frame.php:565
+#: widgets/product_category_carousel/Product_Category_Carousel.php:899
+#: widgets/product_category_grid/Product_Category_Grid.php:765
+#: widgets/product_grid/Product_Grid.php:748
+#: widgets/product_grid/Product_Grid.php:817
+#: widgets/product_single_category/Product_Single_Category.php:672
+#: widgets/team_carousel/Team_Carousel.php:1077
+#: widgets/team_carousel/Team_Carousel.php:1129
+#: widgets/team_carousel/Team_Carousel.php:1163
+#: widgets/team_carousel/Team_Carousel.php:1245
+#: widgets/team_carousel/Team_Carousel.php:1327
+msgid "Title Color"
+msgstr ""
+
+#: settings-panel/inc/settingsfields/Settings_Fields_Base.php:42
+msgid "Title goes here"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:112 widgets/panorama/Panorama.php:161
+msgid "Title goes to here"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:909
+#: widgets/product_category_grid/Product_Category_Grid.php:775
+#: widgets/product_single_category/Product_Single_Category.php:682
+msgid "Title Hover Color"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:809
+msgid "Title Hover Settings"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:766
+msgid "Title Margin"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:66
+msgid "Title One"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:654
+msgid "Title One Color"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:778
+msgid "Title Padding"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:740
+msgid "Title Settings"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:75
+msgid "Title Two"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:673
+msgid "Title Two Color"
+msgstr ""
+
+#: widgets/product_category_carousel/Product_Category_Carousel.php:812
+#: widgets/product_category_grid/Product_Category_Grid.php:678
+#: widgets/product_single_category/Product_Single_Category.php:585
+msgid "Title Wrapper Border"
+msgstr ""
+
+#: enteraddons-pro.php:142
+msgid "to be installed and activated to work properly."
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1010
+#: widgets/comparison_table/Comparison_Table.php:1074
+#: widgets/comparison_table/Comparison_Table.php:1285
+#: widgets/image_hover_effect/Image_Hover_Effect.php:120
+#: widgets/image_hover_effect/Image_Hover_Effect.php:286
+#: widgets/marquee_image/Marquee_Image.php:1060
+#: widgets/modal_popup/Modal_Popup.php:2004
+msgid "Top"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:606
+msgid "Top Layout"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:920
+msgid "Top Space"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:121
+msgid "Top To Bottom"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:999
+msgid "Top, Bottom Position"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:399
+msgid "Trigger Button"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:584
+msgid "Trigger Content Style"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:100 widgets/modal_popup/Modal_Popup.php:57
+msgid "Trigger Type"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:224
+msgid "Twitter Icon"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:119
+msgid "Type"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:72
+msgid "Type Your Domain Name"
+msgstr ""
+
+#: widgets/domain_search/Domain_Search.php:209
+msgid "Type your domain..."
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:365
+#: widgets/accordion_tab/Accordion_Tab.php:580
+#: widgets/accordion_tab/Accordion_Tab.php:667
+#: widgets/accordion_tab/Accordion_Tab.php:1078
+#: widgets/accordion_tab/Accordion_Tab.php:1153
+#: widgets/comparison_table/Comparison_Table.php:688
+#: widgets/comparison_table/Comparison_Table.php:973
+#: widgets/comparison_table/Comparison_Table.php:999
+#: widgets/comparison_table/Comparison_Table.php:1063
+#: widgets/domain_search/Domain_Search.php:549
+#: widgets/domain_search/Domain_Search.php:847
+#: widgets/domain_search/Domain_Search.php:910
+#: widgets/image_hover_effect/Image_Hover_Effect.php:595
+#: widgets/image_hover_effect/Image_Hover_Effect.php:650
+#: widgets/image_hover_effect/Image_Hover_Effect.php:715
+#: widgets/image_hover_effect/Image_Hover_Effect.php:966
+#: widgets/marquee_image/Marquee_Image.php:768
+#: widgets/marquee_image/Marquee_Image.php:872
+#: widgets/marquee_image/Marquee_Image.php:977
+#: widgets/masonry_gallery/Masonry_Gallery.php:266
+#: widgets/masonry_gallery/Masonry_Gallery.php:610
+#: widgets/masonry_gallery/Masonry_Gallery.php:693
+#: widgets/masonry_gallery/Masonry_Gallery.php:740
+#: widgets/mini_cart/Mini_Cart.php:694 widgets/mini_cart/Mini_Cart.php:1404
+#: widgets/mini_cart/Mini_Cart.php:1472 widgets/modal_popup/Modal_Popup.php:787
+#: widgets/modal_popup/Modal_Popup.php:952
+#: widgets/modal_popup/Modal_Popup.php:1257
+#: widgets/modal_popup/Modal_Popup.php:1321
+#: widgets/modal_popup/Modal_Popup.php:1385 widgets/panorama/Panorama.php:665
+#: widgets/panorama/Panorama.php:684 widgets/photo_frame/Photo_Frame.php:498
+#: widgets/photo_frame/Photo_Frame.php:606
+#: widgets/product_grid/Product_Grid.php:759
+#: widgets/product_grid/Product_Grid.php:950
+#: widgets/product_grid/Product_Grid.php:968
+#: widgets/team_carousel/Team_Carousel.php:1088
+#: widgets/team_carousel/Team_Carousel.php:1174
+#: widgets/team_carousel/Team_Carousel.php:1256
+#: widgets/team_carousel/Team_Carousel.php:1338
+#: widgets/team_carousel/Team_Carousel.php:1416
+msgid "Typography"
+msgstr ""
+
+#: widgets/masonry_gallery/Masonry_Gallery.php:124
+#: widgets/masonry_gallery/Masonry_Gallery.php:148
+msgid "UI/UX DESIGN"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:281
+msgid "Up"
+msgstr ""
+
+#: modules/header-footer-scripts/edit-snippets.php:78
+#: modules/url-shortener/templates/edit-shortener.php:129
+msgid "Update"
+msgstr ""
+
+#: inc/Helper.php:144
+msgid "Update failed."
+msgstr ""
+
+#: inc/Helper.php:137
+msgid "Updated successful."
+msgstr ""
+
+#: settings-panel/inc/settingsfields/MediaUpload.php:51
+msgid "Upload"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:49 widgets/panorama/Panorama.php:49
+msgid "Upload Image"
+msgstr ""
+
+#: widgets/iframe/Iframe.php:55 widgets/panorama/Panorama.php:132
+msgid "Url"
+msgstr ""
+
+#. page title
+#: inc/Extensions_Flag.php:61 modules/url-shortener/Url_Shortener.php:28
+#: modules/url-shortener/Url_Shortener.php:29
+#: modules/url-shortener/templates/shortener-page.php:15
+msgid "Url Shortener"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Webp_Convert_Tab.php:78
+msgid "Use Webp"
+msgstr ""
+
+#: widgets/product_grid/Product_Grid.php:140
+msgid "Variable Product Add To Cart Button Text"
+msgstr ""
+
+#: widgets/marquee_image/Marquee_Image.php:265
+#: widgets/modal_popup/Modal_Popup.php:224
+#: widgets/product_grid/Product_Grid.php:62
+msgid "Vertical"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:1006
+#: widgets/comparison_table/Comparison_Table.php:1070
+msgid "Vertical Alignment"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:84
+msgid "View All"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:92
+msgid "View More"
+msgstr ""
+
+#: widgets/accordion_tab/Accordion_Tab.php:152
+msgid "View Project"
+msgstr ""
+
+#: modules/url-shortener/templates/link-tracking.php:15
+msgid "Visitor Information"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:515
+msgid "Wapper Settings"
+msgstr ""
+
+#: modules/header-footer-scripts/HFS_View_Components.php:20
+msgid ""
+"Warning: Using improper code or untrusted sources code can break your site "
+"or create security risks."
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Webp_Convert_Tab.php:78
+msgid "Webp Already used"
+msgstr ""
+
+#. page title
+#: modules/webp-converter/Convert_Webp.php:28
+#: modules/webp-converter/Convert_Webp.php:29
+msgid "Webp Convert"
+msgstr ""
+
+#: inc/Extensions_Flag.php:54
+msgid "Webp Converter"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/General_Settings_Tab.php:49
+#: settings-panel/inc/tabscontent/Webp_Convert_Tab.php:27
+msgid "Webp Image Quality"
+msgstr ""
+
+#: settings-panel/inc/tabscontent/Webp_Convert_Tab.php:125
+msgid "Webp Link"
+msgstr ""
+
+#: widgets/comparison_table/Comparison_Table.php:344
+msgid "Website"
+msgstr ""
+
+#: widgets/team_carousel/Team_Carousel.php:143
+msgid "Website Icon"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:314
+#: widgets/comparison_table/Comparison_Table.php:445
+#: widgets/comparison_table/Comparison_Table.php:861
+#: widgets/domain_search/Domain_Search.php:677
+#: widgets/image_hover_effect/Image_Hover_Effect.php:973
+#: widgets/marquee_image/Marquee_Image.php:337
+#: widgets/mini_cart/Mini_Cart.php:147 widgets/mini_cart/Mini_Cart.php:1238
+#: widgets/modal_popup/Modal_Popup.php:831
+#: widgets/modal_popup/Modal_Popup.php:1605
+#: widgets/product_category_carousel/Product_Category_Carousel.php:959
+#: widgets/product_category_carousel/Product_Category_Carousel.php:1139
+#: widgets/team_carousel/Team_Carousel.php:1590
+#: widgets/team_carousel/Team_Carousel.php:1905
+#: widgets/team_carousel/Team_Carousel.php:2166
+msgid "Width"
+msgstr ""
+
+#: widgets/source_code/Source_Code.php:117
+msgid "Word Wrap"
+msgstr ""
+
+#: widgets/modal_popup/Modal_Popup.php:123
+#: widgets/modal_popup/Modal_Popup.php:261
+msgid "WP Developer"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:334
+#: widgets/image_swap/Image_Swap.php:187 widgets/panorama/Panorama.php:281
+#: widgets/photo_frame/Photo_Frame.php:141
+#: widgets/product_viewer_360/Product_Viewer_360.php:179
+msgid "Wrapper Height"
+msgstr ""
+
+#: widgets/advanced_data_table/Advanced_Data_Table.php:307
+#: widgets/comparison_table/Comparison_Table.php:438
+#: widgets/domain_search/Domain_Search.php:360
+#: widgets/domain_search/Domain_Search.php:963 widgets/iframe/Iframe.php:116
+#: widgets/image_hover_effect/Image_Hover_Effect.php:249
+#: widgets/image_swap/Image_Swap.php:153
+#: widgets/marquee_image/Marquee_Image.php:330
+#: widgets/panorama/Panorama.php:222
+msgid "Wrapper Style"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:308
+#: widgets/image_swap/Image_Swap.php:161 widgets/panorama/Panorama.php:255
+#: widgets/photo_frame/Photo_Frame.php:113
+#: widgets/product_viewer_360/Product_Viewer_360.php:153
+msgid "Wrapper Width"
+msgstr ""
+
+#: modules/header-footer-scripts/add-snippets.php:42
+#: modules/header-footer-scripts/edit-snippets.php:51
+msgid "Write your Code"
+msgstr ""
+
+#: widgets/panorama/Panorama.php:146
+msgid "Yaw"
+msgstr ""
+
+#: inc/Hooks_Callback.php:93 inc/Hooks_Callback.php:125
+#: widgets/advanced_data_table/Advanced_Data_Table.php:135
+#: widgets/advanced_data_table/Advanced_Data_Table.php:244
+#: widgets/advanced_data_table/Advanced_Data_Table.php:255
+#: widgets/advanced_data_table/Advanced_Data_Table.php:266
+#: widgets/advanced_data_table/Advanced_Data_Table.php:277
+#: widgets/advanced_data_table/Advanced_Data_Table.php:291
+#: widgets/iframe/Iframe.php:79 widgets/iframe/Iframe.php:90
+#: widgets/iframe/Iframe.php:101 widgets/marquee_image/Marquee_Image.php:96
+#: widgets/marquee_image/Marquee_Image.php:173 widgets/panorama/Panorama.php:98
+#: widgets/panorama/Panorama.php:183 widgets/panorama/Panorama.php:194
+#: widgets/panorama/Panorama.php:205
+#: widgets/product_category_carousel/Product_Category_Carousel.php:56
+#: widgets/product_category_carousel/Product_Category_Carousel.php:119
+#: widgets/product_category_carousel/Product_Category_Carousel.php:131
+#: widgets/product_category_carousel/Product_Category_Carousel.php:143
+#: widgets/product_category_carousel/Product_Category_Carousel.php:154
+#: widgets/product_category_carousel/Product_Category_Carousel.php:165
+#: widgets/product_category_carousel/Product_Category_Carousel.php:176
+#: widgets/product_category_carousel/Product_Category_Carousel.php:187
+#: widgets/product_category_carousel/Product_Category_Carousel.php:198
+#: widgets/product_category_carousel/Product_Category_Carousel.php:209
+#: widgets/product_category_grid/Product_Category_Grid.php:56
+#: widgets/product_single_category/Product_Single_Category.php:56
+#: widgets/product_viewer_360/Product_Viewer_360.php:120
+#: widgets/team_carousel/Team_Carousel.php:135
+#: widgets/team_carousel/Team_Carousel.php:392
+#: widgets/team_carousel/Team_Carousel.php:404
+#: widgets/team_carousel/Team_Carousel.php:416
+#: widgets/team_carousel/Team_Carousel.php:427
+#: widgets/team_carousel/Team_Carousel.php:438
+#: widgets/team_carousel/Team_Carousel.php:449
+#: widgets/team_carousel/Team_Carousel.php:460
+#: widgets/team_carousel/Team_Carousel.php:471
+#: widgets/team_carousel/Team_Carousel.php:482
+msgid "Yes"
+msgstr ""
+
+#: inc/Hooks_Callback.php:415
+msgid ""
+"Your activation has been successfully completed\n"
+"                    "
+msgstr ""
+
+#: widgets/mini_cart/traits/Templates_Components.php:57
+msgid "Your Cart List"
+msgstr ""
+
+#: inc/Hooks_Callback.php:422
+msgid "Your purchase key input field is empty."
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:198
+msgid "Zoom In"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:199
+msgid "Zoom Out"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:201
+msgid "Zoom Out Down"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:204
+msgid "Zoom Out Flip Horiz"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:205
+msgid "Zoom Out Flip Vert"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:202
+msgid "Zoom Out Left"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:203
+msgid "Zoom Out Right"
+msgstr ""
+
+#: widgets/image_hover_effect/Image_Hover_Effect.php:200
+msgid "Zoom Out Up"
+msgstr ""
+
+#: widgets/image_swap/Image_Swap.php:139
+msgid "ZoomIn ZoomOut"
+msgstr ""
